@@ -212,3 +212,28 @@ ptyxis-transparency opacity="0.95":
     else
       printf "Value must be between 0 and 1: %s.\n" "{{ opacity }}"
     fi
+
+# Create a writable steam shortcut
+add-writable-steam-shortcut:
+    #!/usr/bin/bash
+    set -euo pipefail
+    shortcut_path=$HOME/.local/share/applications/steam.desktop
+    if [[ -f $shortcut_path || -L $shortcut_path ]]; then
+      echo "A writable version already exists. Skipping..."
+      exit 0
+    fi
+    cp /usr/share/applications/steam.desktop "$shortcut_path"
+    echo "Shortcut created"
+    echo "Tip: Run 'ujust restore-steam-shortcut' if you want to restore the original shortcut"
+
+alias restore-steam-shortcut := remove-writable-steam-shortcut
+
+# Restore original steam shortcuts
+remove-writable-steam-shortcut:
+    #!/usr/bin/bash
+    set -euo pipefail
+    shortcut_path=$HOME/.local/share/applications/steam.desktop
+    if [[ -f $shortcut_path || -L $shortcut_path ]]; then
+      rm "$shortcut_path"
+      echo "Shortcut removed at '${shortcut_path}'"
+    fi
