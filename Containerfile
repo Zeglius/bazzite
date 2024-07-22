@@ -615,6 +615,7 @@ RUN rm -f /etc/profile.d/toolbox.sh && \
     systemctl enable tailscaled.service && \
     systemctl enable dev-hugepages1G.mount && \
     systemctl disable joycond.service && \
+    systemctl enable bazzite-bluetooth-sleep-workaround.service && \
     systemctl --global enable bazzite-user-setup.service && \
     systemctl --global enable podman.socket && \
     systemctl --global enable systemd-tmpfiles-setup.service && \
@@ -775,7 +776,6 @@ RUN /usr/libexec/containerbuild/image-info && \
     systemctl enable cec-onboot.service && \
     systemctl enable cec-onpoweroff.service && \
     systemctl enable cec-onsleep.service && \
-    systemctl enable bazzite-bluetooth-sleep-workaround.service && \
     systemctl enable bazzite-tdpfix.service && \
     systemctl --global enable steam-web-debug-portforward.service && \
     systemctl --global disable sdgyrodsu.service && \
