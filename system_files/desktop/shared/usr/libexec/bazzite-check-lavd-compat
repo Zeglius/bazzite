@@ -1,0 +1,7 @@
+#!/usr/bin/bash
+# Check if CPU is compatible with LAVD scheduler
+export LC_ALL=C
+res=$(lscpu | awk -F ":" '/NUMA node\(s\)/ {gsub(/ /, "",$0); print $2}')
+
+[[ $res == 1 ]]
+return $?

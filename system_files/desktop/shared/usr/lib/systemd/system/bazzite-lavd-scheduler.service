@@ -1,0 +1,14 @@
+# By Zeglius
+[Unit]
+Description=Enable experimental LAVD scheduler
+ConditionFileIsExecutable=/usr/bin/scx_lavd
+ConditionKernelVersion=">=6.9.8-203.fsync.fc40.x86_64"
+
+[Service]
+Environment=LC_ALL=C
+Type=oneshot
+ExecCondition=/usr/libexec/bazzite-check-lavd-compat
+ExecStart=/usr/bin/scx_lavd
+
+[Install]
+WantedBy=multi-user.target
