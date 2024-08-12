@@ -1,0 +1,5856 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Bazzite Documentation\n"
+"POT-Creation-Date: 2024-08-12T19:53:25+02:00\n"
+"PO-Revision-Date: 2024-08-13 14:57+0200\n"
+"Last-Translator: zeglius <zeglius@bazzite>\n"
+"Language-Team: Spanish <es@tp.org.es>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#: src/SUMMARY.md:3
+msgid "Introduction"
+msgstr "Introducción"
+
+#: src/SUMMARY.md:7 src/Introduction.md:9
+msgid "General"
+msgstr "General"
+
+#: src/SUMMARY.md:9
+msgid "📜 Bazzite's README"
+msgstr "📜 Bazzite README"
+
+#: src/SUMMARY.md:10
+msgid "❓️ FAQ"
+msgstr ""
+
+#: src/SUMMARY.md:11
+msgid "📖 Installation Guide"
+msgstr "📖 Guía de instalación"
+
+#: src/SUMMARY.md:12
+msgid "📝 Desktop Environment Tweaks"
+msgstr "📝 Ajustes de entorno de escritorio"
+
+#: src/SUMMARY.md:13
+msgid "🤝 Contributing to Bazzite"
+msgstr "🤝 Contribuyendo a Bazzite"
+
+#: src/SUMMARY.md:14
+msgid "🎲 Gaming"
+msgstr "🎲 Gaming"
+
+#: src/SUMMARY.md:15 src/Gaming/Game_Launchers.md:1
+msgid "Game Launchers"
+msgstr "Lanzadores de juegos"
+
+#: src/SUMMARY.md:17 src/Introduction.md:19
+msgid "Steam Gaming Mode / Handheld & HTPC Hardware"
+msgstr "Steam modo juego / Consola de mano y HTPC Hardware"
+
+#: src/SUMMARY.md:19
+msgid "📺️ Steam Gaming Mode Overview"
+msgstr ""
+
+#: src/SUMMARY.md:20
+msgid "Change Physical Keyboard Layout for Steam Gaming Mode"
+msgstr ""
+
+#: src/SUMMARY.md:21
+msgid "Handheld Wiki"
+msgstr ""
+
+#: src/SUMMARY.md:22
+msgid "Steam Deck"
+msgstr "Steam Deck"
+
+#: src/SUMMARY.md:23
+msgid "Lenovo Legion Go"
+msgstr "Lenovo Legion Go"
+
+#: src/SUMMARY.md:24
+msgid "ASUS ROG Ally"
+msgstr "ASUS ROG Ally"
+
+#: src/SUMMARY.md:25
+msgid "Ayn Handhelds"
+msgstr ""
+
+#: src/SUMMARY.md:26
+msgid "GPD Handhelds"
+msgstr ""
+
+#: src/SUMMARY.md:27
+msgid "Ayaneo Handhelds"
+msgstr ""
+
+#: src/SUMMARY.md:28
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:1
+msgid "Other Handhelds"
+msgstr ""
+
+#: src/SUMMARY.md:30 src/Introduction.md:32
+msgid "Software"
+msgstr "Software"
+
+#: src/SUMMARY.md:32
+msgid "Installing and Managing Software"
+msgstr ""
+
+#: src/SUMMARY.md:33
+msgid "Flatpak"
+msgstr "Flatpak"
+
+#: src/SUMMARY.md:34
+msgid "ujust"
+msgstr "ujust"
+
+#: src/SUMMARY.md:35
+msgid "Homebrew"
+msgstr "Homebrew"
+
+#: src/SUMMARY.md:36
+msgid "Distrobox"
+msgstr "Distrobox"
+
+#: src/SUMMARY.md:37 src/Installing_and_Managing_Software/AppImage.md:1
+msgid "Appimage"
+msgstr "Appimage"
+
+#: src/SUMMARY.md:38
+msgid "rpm-ostree"
+msgstr "rpm-ostree"
+
+#: src/SUMMARY.md:39
+msgid "Waydroid Setup Guide"
+msgstr ""
+
+#: src/SUMMARY.md:40 src/Installing_and_Managing_Software/index.md:37
+msgid "Tutorials for Installing Other Software"
+msgstr ""
+
+#: src/SUMMARY.md:41
+msgid "Updates, Rollbacks, & Rebasing"
+msgstr ""
+
+#: src/SUMMARY.md:43 src/Introduction.md:45
+msgid "Advanced"
+msgstr ""
+
+#: src/SUMMARY.md:45 src/Introduction.md:47
+msgid "**_Follow the documentation below at your own risk!_**"
+msgstr "**_Sigue esta documentación a tu propio riesgo!_**"
+
+#: src/SUMMARY.md:47
+msgid "Auto-Mounting Secondary Drives"
+msgstr "Auto-montar unidades secundarias de almacenamiento"
+
+#: src/SUMMARY.md:48
+msgid "Reset User Password"
+msgstr "Resetear contraseña de usuario"
+
+#: src/SUMMARY.md:49
+msgid "Using Looking Glass"
+msgstr "Usando Looking Glass"
+
+#: src/SUMMARY.md:50
+msgid "Plymouth Theming to Show Details"
+msgstr ""
+
+#: src/SUMMARY.md:51
+msgid "GRUB Theming"
+msgstr ""
+
+#: src/SUMMARY.md:52
+msgid "Modifying initramfs args and dracut"
+msgstr ""
+
+#: src/Introduction.md:5
+msgid "[Introduction](Introduction.md)"
+msgstr ""
+
+#: src/Introduction.md:11
+msgid "[📜 Bazzite's README](Bazzite_README.md)"
+msgstr ""
+
+#: src/Introduction.md:12
+msgid "[❓️ FAQ](General/FAQ.md)"
+msgstr ""
+
+#: src/Introduction.md:13
+msgid "[📖 Installation Guide](General/Installation_Guide/index.md)"
+msgstr "[📖 Installation Guide](General/Installation_Guide/index.md)"
+
+#: src/Introduction.md:14
+msgid "[📝 Desktop Environment Tweaks](General/Desktop_Environment_Tweaks.md)"
+msgstr ""
+
+#: src/Introduction.md:15
+msgid "[🤝 Contributing to Bazzite](General/Contributing_to_Bazzite.md)"
+msgstr "[🤝 Contribuyendo a Bazzite](General/Contributing_to_Bazzite.md)"
+
+#: src/Introduction.md:16
+msgid "[🎲 Gaming](Gaming/index.md)"
+msgstr ""
+
+#: src/Introduction.md:17
+msgid "[Game Launchers](Gaming/Game_Launchers.md)"
+msgstr ""
+
+#: src/Introduction.md:21
+msgid ""
+"[📺️ Steam Gaming Mode Overview](Handheld_and_HTPC_edition/Steam_Gaming_Mode/"
+"index.md)"
+msgstr ""
+
+#: src/Introduction.md:22
+msgid ""
+"[Change Physical Keyboard Layout for Steam Gaming Mode]"
+"(Handheld_and_HTPC_edition/"
+"Change_Physical_Keyboard_Layout_for_Steam_Gaming_Mode.md)"
+msgstr ""
+
+#: src/Introduction.md:23
+msgid "[Handheld Wiki](Handheld_and_HTPC_edition/Handheld_Wiki/index.md)"
+msgstr ""
+
+#: src/Introduction.md:24
+msgid "[Steam Deck](Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md)"
+msgstr ""
+
+#: src/Introduction.md:25
+msgid ""
+"[Lenovo Legion Go](Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go."
+"md)"
+msgstr ""
+
+#: src/Introduction.md:26
+msgid ""
+"[ASUS ROG Ally](Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md)"
+msgstr ""
+
+#: src/Introduction.md:27
+msgid ""
+"[Ayn Handhelds](Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md)"
+msgstr ""
+
+#: src/Introduction.md:28
+msgid ""
+"[GPD Handhelds](Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md)"
+msgstr ""
+
+#: src/Introduction.md:29
+msgid ""
+"[Ayaneo Handhelds](Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds."
+"md)"
+msgstr ""
+
+#: src/Introduction.md:30
+msgid ""
+"[Other Handhelds](Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md)"
+msgstr ""
+
+#: src/Introduction.md:34
+msgid ""
+"[Installing and Managing Software](Installing_and_Managing_Software/index.md)"
+msgstr ""
+
+#: src/Introduction.md:35
+msgid "[Flatpak](Installing_and_Managing_Software/Flatpak.md)"
+msgstr ""
+
+#: src/Introduction.md:36
+msgid "[ujust](Installing_and_Managing_Software/ujust.md)"
+msgstr ""
+
+#: src/Introduction.md:37
+msgid "[Homebrew](Installing_and_Managing_Software/Homebrew.md)"
+msgstr ""
+
+#: src/Introduction.md:38
+msgid "[Distrobox](Installing_and_Managing_Software/Distrobox.md)"
+msgstr ""
+
+#: src/Introduction.md:39
+msgid "[Appimage](Installing_and_Managing_Software/AppImage.md)"
+msgstr ""
+
+#: src/Introduction.md:40
+msgid "[rpm-ostree](Installing_and_Managing_Software/rpm-ostree.md)"
+msgstr ""
+
+#: src/Introduction.md:41
+msgid ""
+"[Waydroid Setup Guide](Installing_and_Managing_Software/Waydroid_Setup_Guide."
+"md)"
+msgstr ""
+
+#: src/Introduction.md:42
+msgid ""
+"[Tutorials for Installing Other Software](Installing_and_Managing_Software/"
+"index.md)"
+msgstr ""
+
+#: src/Introduction.md:43
+msgid ""
+"[Updates, Rollbacks, & Rebasing](Installing_and_Managing_Software/"
+"Updates_Rollbacks_&_Rebasing.md)"
+msgstr ""
+
+#: src/Introduction.md:49
+msgid ""
+"[Auto-Mounting Secondary Drives](Advanced/Auto-Mounting_Secondary_Drives.md)"
+msgstr ""
+
+#: src/Introduction.md:50
+msgid "[Reset User Password](Advanced/Reset_User_Password.md)"
+msgstr ""
+
+#: src/Introduction.md:51
+msgid "[Using Looking Glass](Advanced/Using_Looking_Glass.md)"
+msgstr ""
+
+#: src/Introduction.md:52
+msgid ""
+"[Plymouth Theming to Show Details](Advanced/Plymouth_Theming_to_Show_Details."
+"md)"
+msgstr ""
+
+#: src/Introduction.md:53
+msgid "[GRUB Theming](Advanced/GRUB_Theming.md)"
+msgstr ""
+
+#: src/Introduction.md:54
+msgid ""
+"[Modifying initramfs args and dracut](Advanced/"
+"Modifying_initramfs_args_and_dracut.md)"
+msgstr ""
+
+#: src/Bazzite_README.md:1
+msgid "See <https://github.com/ublue-os/bazzite/blob/main/README.md>"
+msgstr ""
+
+#: src/General/FAQ.md:3
+msgid "Pre-Installation FAQ"
+msgstr ""
+
+#: src/General/FAQ.md:4
+msgid "Questions frequently asked from those who are curious about Bazzite."
+msgstr ""
+
+#: src/General/FAQ.md:6
+msgid "Why is it called Bazzite?"
+msgstr ""
+
+#: src/General/FAQ.md:7
+msgid ""
+"[Fedora Linux's Atomic Desktops](https://fedoraproject.org/atomic-desktops/) "
+"originally followed a naming scheme based on [minerals.](https://"
+"fedoraproject.org/kinoite/)  Bazzite is a mineral that is known for being "
+"strong, lightweight, and is colored [blue](https://universal-blue.org/)."
+msgstr ""
+
+#: src/General/FAQ.md:9
+msgid "What Bazzite image do I use?"
+msgstr ""
+
+#: src/General/FAQ.md:11
+msgid ""
+"Bazzite's [website](https://bazzite.gg/#image-picker) offers a streamlined "
+"way of selecting the correct image which will be chosen based on hardware, "
+"desktop environment, and to include Steam Gaming Mode if the hardware "
+"supports it."
+msgstr ""
+
+#: src/General/FAQ.md:13
+msgid ""
+"Bazzite offers multiple images, but most images will be following _one of "
+"these two formats_:"
+msgstr ""
+
+#: src/General/FAQ.md:14
+msgid ""
+"Bazzite that automatically boots into Steam Gaming Mode with manual updates"
+msgstr ""
+
+#: src/General/FAQ.md:15
+msgid ""
+"Bazzite that does **not** have Steam Gaming Mode and receives automatic "
+"updates daily"
+msgstr ""
+
+#: src/General/FAQ.md:17
+msgid "**Images are split up between **two** types of Bazzite editions**:"
+msgstr ""
+
+#: src/General/FAQ.md:19
+msgid "1. Desktop Edition"
+msgstr ""
+
+#: src/General/FAQ.md:21
+msgid "**Steam Gaming Mode is not on these specific images!**"
+msgstr ""
+
+#: src/General/FAQ.md:23
+msgid ""
+"Intended specifically for desktops and laptops with a focus on gaming which "
+"is influenced by SteamOS's Desktop Mode and the maintenance-free nature of "
+"ChromeOS."
+msgstr ""
+
+#: src/General/FAQ.md:25
+msgid ""
+"Steam and other gaming utilities are part of the base operating system. "
+"System rollbacks available with a rock-solid stable Fedora Linux base.  "
+"**Updates are automatically downloaded in the background and applied on a "
+"restart**.  Most modern hardware should be compatible outside of specific "
+"drivers that do not work well on desktop Linux."
+msgstr ""
+
+#: src/General/FAQ.md:27
+msgid ""
+"The choice of KDE Plasma and GNOME for the desktop environment with others "
+"planned for the future.  [Flathub](https://flathub.org/) is enabled out of "
+"the box, so all of the applications that you would find on SteamOS are "
+"available on Bazzite."
+msgstr ""
+
+#: src/General/FAQ.md:29
+msgid ""
+"[2. Handheld/HTPC Edition (`-deck` Images)](https://universal-blue.discourse."
+"group/docs?topic=37)"
+msgstr ""
+
+#: src/General/FAQ.md:31
+msgid ""
+"Mimics SteamOS with \"**Steam Gaming Mode**\" and its features fully "
+"functional.  This version of Bazzite boots directly into the Steam Gaming "
+"Mode session and are intended for handheld PCs and home theater setups."
+msgstr ""
+
+#: src/General/FAQ.md:33
+msgid ""
+"Images also includes a Desktop Mode session with the choice of GNOME or KDE "
+"Plasma and is based on our Desktop images.  **Updates are manually installed "
+"by the user and applied on a restart**."
+msgstr ""
+
+#: src/General/FAQ.md:35
+msgid ""
+"Steam Gaming Mode **requires** a modern AMD graphics card or an Intel Arc "
+"graphics card."
+msgstr ""
+
+#: src/General/FAQ.md:37
+msgid "Desktop Environments & Specific Hardware Variants"
+msgstr ""
+
+#: src/General/FAQ.md:39
+msgid ""
+"Both types of images also come with the choice of using [KDE Plasma](https://"
+"kde.org/plasma-desktop/) or [GNOME](https://www.gnome.org/) for the desktop "
+"environment and certain images are made with specific hardware support."
+msgstr ""
+
+#: src/General/FAQ.md:41
+msgid ""
+"There is more information about this topic on the [Installation Guide]"
+"(https://universal-blue.discourse.group/docs?topic=30) to help guide users "
+"on which image to choose before the installation."
+msgstr ""
+
+#: src/General/FAQ.md:44
+msgid "Bazzite Image Chart"
+msgstr ""
+
+#: src/General/FAQ.md:46
+msgid "Image"
+msgstr ""
+
+#: src/General/FAQ.md:46
+msgid "Desktop Environment"
+msgstr "Entorno de escritorio"
+
+#: src/General/FAQ.md:46
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:41
+msgid "Steam Gaming Mode"
+msgstr "Steam Modo Juego"
+
+#: src/General/FAQ.md:46
+msgid "Hardware"
+msgstr "Hardware"
+
+#: src/General/FAQ.md:46
+msgid "Edition"
+msgstr "Edición"
+
+#: src/General/FAQ.md:48
+msgid "`bazzite`"
+msgstr "`bazzite`"
+
+#: src/General/FAQ.md:48 src/General/FAQ.md:49 src/General/FAQ.md:52
+#: src/General/FAQ.md:54 src/General/FAQ.md:56 src/General/FAQ.md:58
+msgid "KDE Plasma"
+msgstr "KDE Plasma"
+
+#: src/General/FAQ.md:48 src/General/FAQ.md:49 src/General/FAQ.md:50
+#: src/General/FAQ.md:51 src/General/FAQ.md:54 src/General/FAQ.md:55
+#: src/General/FAQ.md:56 src/General/FAQ.md:57
+msgid "No"
+msgstr "No"
+
+#: src/General/FAQ.md:48 src/General/FAQ.md:50
+msgid "AMD/Intel GPUs"
+msgstr "AMD/Intel GPUs"
+
+#: src/General/FAQ.md:48 src/General/FAQ.md:49 src/General/FAQ.md:50
+#: src/General/FAQ.md:51 src/General/FAQ.md:54 src/General/FAQ.md:55
+#: src/General/FAQ.md:56 src/General/FAQ.md:57
+msgid "Desktop"
+msgstr "Escritorio"
+
+#: src/General/FAQ.md:49
+msgid "`bazzite-nvidia`"
+msgstr "`bazzite-nvidia`"
+
+#: src/General/FAQ.md:49 src/General/FAQ.md:51
+msgid "Nvidia GPUs"
+msgstr "Nvidia GPUs"
+
+#: src/General/FAQ.md:50
+msgid "`bazzite-gnome`"
+msgstr "`bazzite-gnome`"
+
+#: src/General/FAQ.md:50 src/General/FAQ.md:51 src/General/FAQ.md:53
+#: src/General/FAQ.md:55 src/General/FAQ.md:57 src/General/FAQ.md:59
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:191
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:60
+msgid "GNOME"
+msgstr "GNOME"
+
+#: src/General/FAQ.md:51
+msgid "`bazzite-gnome-nvidia`"
+msgstr "`bazzite-gnome-nvidia`"
+
+#: src/General/FAQ.md:52
+msgid "`bazzite-deck`:"
+msgstr "`bazzite-deck`:"
+
+#: src/General/FAQ.md:52 src/General/FAQ.md:53 src/General/FAQ.md:58
+#: src/General/FAQ.md:59
+msgid "Yes"
+msgstr "Sí"
+
+#: src/General/FAQ.md:52 src/General/FAQ.md:53
+msgid "AMD/Intel Arc GPUs"
+msgstr "AMD/Intel Arc GPUs"
+
+#: src/General/FAQ.md:52 src/General/FAQ.md:53 src/General/FAQ.md:58
+#: src/General/FAQ.md:59
+msgid "Handheld/HTPC"
+msgstr ""
+
+#: src/General/FAQ.md:53
+msgid "`bazzite-deck-gnome`"
+msgstr "`bazzite-deck-gnome`"
+
+#: src/General/FAQ.md:54
+msgid "`bazzite-asus`"
+msgstr "`bazzite-asus`"
+
+#: src/General/FAQ.md:54
+msgid "ASUS Laptops (AMD/Intel GPUs"
+msgstr "Portatiles ASUS (AMD/Intel GPUs"
+
+#: src/General/FAQ.md:55
+msgid "`bazzite-asus-gnome`"
+msgstr "`bazzite-asus-gnome`"
+
+#: src/General/FAQ.md:55
+msgid "ASUS Laptops (AMD/Intel GPUs)"
+msgstr "Portatiles ASUS (AMD/Intel GPUs)"
+
+#: src/General/FAQ.md:56
+msgid "`bazzite-asus-nvidia`"
+msgstr "`bazzite-asus-nvidia`"
+
+#: src/General/FAQ.md:56 src/General/FAQ.md:57
+msgid "ASUS Laptops (Nvidia GPUs)"
+msgstr "Portatiles ASUS (Nvidia GPUs)"
+
+#: src/General/FAQ.md:57
+msgid "`bazzite-gnome-asus-nvidia`"
+msgstr "`bazzite-gnome-asus-nvidia`"
+
+#: src/General/FAQ.md:58
+msgid "`bazzite-ally`"
+msgstr "`bazzite-ally`"
+
+#: src/General/FAQ.md:58 src/General/FAQ.md:59
+msgid "ASUS Laptops (Steam Gaming Mode Enabled)"
+msgstr "Portatiles ASUS (con Steam Modo Juego)"
+
+#: src/General/FAQ.md:59
+msgid "`bazzite-ally-gnome`"
+msgstr "`bazzite-ally-gnome`"
+
+#: src/General/FAQ.md:62
+msgid "Who are the target audiences?"
+msgstr ""
+
+#: src/General/FAQ.md:63
+msgid ""
+"Desktop users who want an operating system designed for gaming with "
+"inspiration from SteamOS that has fairly low maintenance."
+msgstr ""
+
+#: src/General/FAQ.md:64
+msgid ""
+"Steam Deck users who feel limited by SteamOS and also want newer system "
+"packages."
+msgstr ""
+
+#: src/General/FAQ.md:65
+msgid "Home Theater PC setups for a console-like experience."
+msgstr ""
+
+#: src/General/FAQ.md:66
+msgid ""
+"[Handheld PC](https://universal-blue.discourse.group/docs?topic=1038) users "
+"who would prefer a SteamOS-like experience."
+msgstr ""
+
+#: src/General/FAQ.md:68
+msgid "SteamOS is based on Arch Linux, so why use Fedora Linux?"
+msgstr ""
+
+#: src/General/FAQ.md:70
+msgid ""
+"SteamOS receives package and driver updates less frequently despite the "
+"rolling release base."
+msgstr ""
+
+#: src/General/FAQ.md:72
+msgid ""
+"Bazzite will follow Fedora's update release cycle which means early access "
+"to new graphics card driver and kernel updates in comparison to SteamOS."
+msgstr ""
+
+#: src/General/FAQ.md:74
+msgid ""
+"Fedora Linux and Universal Blue currently supports a specific \"atomic\" "
+"implementation to maintain multiple images that can receive all of the same "
+"updates at once, which is unlike a derivative Linux distribution."
+msgstr ""
+
+#: src/General/FAQ.md:76
+msgid ""
+"The **goal** of Bazzite is to have an operating system ready to game after "
+"installing it."
+msgstr ""
+
+#: src/General/FAQ.md:78
+msgid "Any advantages to using Fedora?"
+msgstr ""
+
+#: src/General/FAQ.md:79
+msgid ""
+"Since Bazzite is a custom Fedora Atomic Desktop image, it makes use of read-"
+"only root files for stability purposes, and is built with [libostree]"
+"(https://docs.fedoraproject.org/en-US/fedora-silverblue/technical-"
+"information/) which has advantages such as:"
+msgstr ""
+
+#: src/General/FAQ.md:81
+msgid "Low risk of an unbootable system"
+msgstr ""
+
+#: src/General/FAQ.md:82
+msgid ""
+"Rollback system updates if necessary, and the ability to pin your current "
+"deployment as a backup save state without losing user data."
+msgstr ""
+
+#: src/General/FAQ.md:83
+msgid "Smooth upgrade process from major Fedora point releases."
+msgstr ""
+
+#: src/General/FAQ.md:84
+msgid "Layer Fedora packages to the host that survive between updates."
+msgstr ""
+
+#: src/General/FAQ.md:85
+msgid ""
+"Focus on containerized applications that do not interfere with your host "
+"system."
+msgstr ""
+
+#: src/General/FAQ.md:87
+msgid ""
+"Check out the [Universal Blue homepage](https://universal-blue.org) for more "
+"information on what this project is capable of."
+msgstr ""
+
+#: src/General/FAQ.md:89
+msgid "How is Fedora Atomic Desktop different than Fedora Workstation?"
+msgstr ""
+
+#: src/General/FAQ.md:91
+msgid ""
+"If you're familiar with [Fedora Workstation](https://www.fedoraproject.org/"
+"workstation/) and [Fedora's Spins](https://www.fedoraproject.org/spins/), "
+"but not the Fedora Atomic Desktops paradigm, the major difference is with "
+"stability between system upgrades.  There are read-only root files and an "
+"emphasis on installing applications as a Flatpak or inside [containers.]"
+"(https://distrobox.it/)  Read more about [obtaining software on Bazzite]"
+"(https://universal-blue.discourse.group/docs?topic=35)."
+msgstr ""
+
+#: src/General/FAQ.md:93
+msgid ""
+"Users can rollback to a previous deployment if a system update breaks their "
+"workflow, or rebase entirely back to a stock Fedora Atomic image, [Aurora]"
+"(https://getaurora.dev/), [Bluefin](https://projectbluefin.io/), or a "
+"[custom image by the community](https://universal-blue.discourse.group/docs?"
+"topic=340).  Do **not** rebase between different desktop environments.  Read "
+"more about how [updates, rolling back, and rebasing works on Bazzite]"
+"(https://universal-blue.discourse.group/docs?topic=36)."
+msgstr ""
+
+#: src/General/FAQ.md:95
+msgid ""
+"Here's a helpful [cheat sheet](https://docs.fedoraproject.org/en-US/fedora-"
+"silverblue/_attachments/silverblue-cheatsheet.pdf) for using **advanced** "
+"commands, but gives a glimpse of what this paradigm is capable of.  There is "
+"also a future planned ahead of this technology.  Upcoming additions like "
+"[bootc](https://containers.github.io/bootc/) will be a major change when it "
+"is ready for production."
+msgstr ""
+
+#: src/General/FAQ.md:97
+msgid "Is this another fringe Linux distribution?"
+msgstr ""
+
+#: src/General/FAQ.md:98
+msgid ""
+"Bazzite is **not** a Linux distribution in the traditional sense.  It's a "
+"custom Fedora Atomic Desktop image with a recipe on top of it.  Universal "
+"Blue images are a proof of concept of using containerized workflows with "
+"transactional and in-place operating system updates, and Bazzite exists by "
+"being gaming focused with inspiration from SteamOS."
+msgstr ""
+
+#: src/General/FAQ.md:100
+msgid ""
+"Essentially, Bazzite is a Fedora Atomic Desktop installation, but with the "
+"aid of Universal Blue's tooling, adds packages, services, drivers, etc. to "
+"the base image of it."
+msgstr ""
+
+#: src/General/FAQ.md:102
+msgid "How does Bazzite differ?"
+msgstr ""
+
+#: src/General/FAQ.md:104
+msgid ""
+"Bazzite is using a new \"**container-native**\" approach that Fedora has "
+"been testing, and we are taking full advantage of it."
+msgstr ""
+
+#: src/General/FAQ.md:106
+msgid ""
+"We are utilizing the [Open Container Initiative (OCI)](https://"
+"opencontainers.org/about/overview/) to build the images, and are simply "
+"adding packages, services, kernel modules, and our own spin to existing "
+"Fedora operating systems."
+msgstr ""
+
+#: src/General/FAQ.md:108
+msgid ""
+"The ultimate goal of Bazzite is to be Fedora Linux, but provide a great "
+"gaming experience out of the box while also being an alternative operating "
+"system for the Steam Deck."
+msgstr ""
+
+#: src/General/FAQ.md:110
+msgid ""
+"Unlike traditional Linux distributions, **most of the maintenance and "
+"security updates are done upstream** by Fedora and Universal Blue while "
+"Bazzite only has to focus on creating a great experience for PC gaming."
+msgstr ""
+
+#: src/General/FAQ.md:112
+msgid "Image Matrix"
+msgstr ""
+
+#: src/General/FAQ.md:114
+msgid ""
+"We provide several different images that all get the same additions and "
+"fixes through updates at the same time unless specified otherwise.  Many "
+"images are hardware specific for compatibility reasons, yet all of the "
+"images will usually receive the same features and fixes at the same time."
+msgstr ""
+
+#: src/General/FAQ.md:116
+msgid ""
+"There can be a hypothetical scenario where everyone involved with Bazzite "
+"could stop maintaining the project at once and it will still continue to "
+"receive updates directly from upstream."
+msgstr ""
+
+#: src/General/FAQ.md:118
+msgid "Can this be used as a daily driver?"
+msgstr ""
+
+#: src/General/FAQ.md:120
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:99
+msgid "**Yes**."
+msgstr "**Sí**."
+
+#: src/General/FAQ.md:122
+msgid ""
+"Updates are obtained and downloaded straight from upstream which means there "
+"is little maintenance to be done with the image on our end since these "
+"images are modified Fedora images.  Users will receive application and "
+"system updates from Bazzite, Universal Blue, and Fedora daily."
+msgstr ""
+
+#: src/General/FAQ.md:124
+msgid ""
+"A friendly reminder that this project is still in its early stages and "
+"moving at a fast pace with updates and changes nearly daily."
+msgstr ""
+
+#: src/General/FAQ.md:126
+msgid "What are some of the utilities that Bazzite ships?"
+msgstr ""
+
+#: src/General/FAQ.md:127
+msgid "(_in alphabetical order_)"
+msgstr ""
+
+#: src/General/FAQ.md:128
+msgid "[Boxkit](https://github.com/ublue-os/boxkit)"
+msgstr "[Boxkit](https://github.com/ublue-os/boxkit)"
+
+#: src/General/FAQ.md:129
+msgid "Tool used for custom OCI Distrobox/Toolbox containers."
+msgstr ""
+
+#: src/General/FAQ.md:130
+msgid ""
+"Anything from [DaVinci Resolve](https://github.com/zelikos/davincibox) to "
+"[OBS Studio Portable](https://github.com/ublue-os/obs-studio-portable) can "
+"be accessed with this.  These applications run in their own special "
+"container, so dependencies do not affect your host."
+msgstr ""
+
+#: src/General/FAQ.md:131
+msgid "[Discover Overlay](https://github.com/trigg/Discover)"
+msgstr "[Discover Overlay](https://github.com/trigg/Discover)"
+
+#: src/General/FAQ.md:132
+msgid "Discord chat overlay integration for Steam Gaming Mode."
+msgstr ""
+
+#: src/General/FAQ.md:133
+msgid ""
+"It has a [special configuration](https://trigg.github.io/Discover/bazzite) "
+"for Bazzite where it automatically starts when you are in Gaming Mode and "
+"Discord is running on Handheld/HTPC images."
+msgstr ""
+
+#: src/General/FAQ.md:134
+msgid "[Handheld Daemon](https://github.com/hhd-dev/hhd)"
+msgstr "[Handheld Daemon](https://github.com/hhd-dev/hhd)"
+
+#: src/General/FAQ.md:135
+msgid "Tool for configuring handheld devices."
+msgstr ""
+
+#: src/General/FAQ.md:136
+msgid "Manages gyro, LEDs, paddles, and TDP."
+msgstr ""
+
+#: src/General/FAQ.md:137
+msgid "[Ptyxis](https://universal-blue.discourse.group/docs?topic=300)"
+msgstr "[Ptyxis](https://universal-blue.discourse.group/docs?topic=300)"
+
+#: src/General/FAQ.md:138
+msgid "Terminal with first-class container support."
+msgstr ""
+
+#: src/General/FAQ.md:139
+msgid "[`ujust`](https://universal-blue.discourse.group/docs?topic=42)"
+msgstr "[`ujust`](https://universal-blue.discourse.group/docs?topic=42)"
+
+#: src/General/FAQ.md:140
+msgid "Execute custom commands based on recipes."
+msgstr ""
+
+#: src/General/FAQ.md:141
+msgid "[yafti (Bazzite Portal)](https://github.com/ublue-os/yafti/)"
+msgstr "[yafti (Bazzite Portal)](https://github.com/ublue-os/yafti/)"
+
+#: src/General/FAQ.md:142
+msgid "First-boot utility for installing additional software."
+msgstr ""
+
+#: src/General/FAQ.md:144
+msgid "Is Secure Boot supported?"
+msgstr ""
+
+#: src/General/FAQ.md:146
+msgid ""
+"**WARNING (Steam Deck hardware only):** The Steam Deck does not come with "
+"secure boot enabled and does not ship with any keys enrolled by default, so "
+"do not enable this on Steam Deck hardware unless you absolutely know what "
+"you're doing!"
+msgstr ""
+
+#: src/General/FAQ.md:148
+msgid "**Yes**, but you will have to enroll our key."
+msgstr ""
+
+#: src/General/FAQ.md:150
+msgid ""
+"More information on enrolling the key in our [Secure Boot guide](https://"
+"universal-blue.discourse.group/docs?topic=2742)."
+msgstr ""
+
+#: src/General/FAQ.md:153
+msgid "Are AMD, Intel, and Nvidia graphics card drivers pre-installed?"
+msgstr ""
+
+#: src/General/FAQ.md:155
+msgid "Yes and they are updated during a system upgrade when available."
+msgstr ""
+
+#: src/General/FAQ.md:157
+msgid "What if I change hardware?"
+msgstr ""
+
+#: src/General/FAQ.md:159
+msgid ""
+"Most hardware changes should **not** require any manual intervention outside "
+"of the expectations from that particular hardware which would be OS-agnostic."
+msgstr ""
+
+#: src/General/FAQ.md:161
+msgid ""
+"However, if you swap from or to a Nvidia GPU, then [rebasing](https://"
+"universal-blue.discourse.group/docs?topic=2646) will be necessary as a "
+"manual intervention to get the appropriate graphics drivers."
+msgstr ""
+
+#: src/General/FAQ.md:163
+msgid "What is the difference between Bluefin, Aurora, and Bazzite?"
+msgstr ""
+
+#: src/General/FAQ.md:165
+msgid ""
+"**TL;DR**: Bazzite is the gaming-centric version of Bluefin (GNOME) and "
+"Aurora (KDE Plasma)."
+msgstr ""
+
+#: src/General/FAQ.md:167
+msgid ""
+"[Bluefin](https://projectbluefin.io/) and [Aurora](https://getaurora.dev) "
+"are nearly identical outside of branding and desktop environment, but "
+"Bazzite strays away from both.  All three are similar for desktop PCs and "
+"function similarly and share contributors between projects.  Bluefin and "
+"Aurora target two audiences---individuals who want a maintenance-free Linux "
+"desktop experience and developers (using the `-dx` images)."
+msgstr ""
+
+#: src/General/FAQ.md:169
+msgid ""
+"Bazzite exclusively focuses on having an out of the box Linux gaming "
+"experience for desktop, HTPC hardware, and handhelds.  Bazzite can be summed "
+"up as Bluefin and Aurora but tuned for PC gaming.  All 3 are community-"
+"centric custom Fedora Atomic Desktop that is configured for their specific "
+"target audience, and for Bazzite specifically: PC gamers who want to use the "
+"Linux desktop as the alternative to Windows."
+msgstr ""
+
+#: src/General/FAQ.md:173
+msgid "Post-Installation FAQ"
+msgstr ""
+
+#: src/General/FAQ.md:174
+msgid ""
+"Frequently asked questions by Bazzite users who have already installed "
+"Bazzite."
+msgstr ""
+
+#: src/General/FAQ.md:176
+msgid "How do I change the hostname of my device?"
+msgstr ""
+
+#: src/General/FAQ.md:178
+msgid ""
+"Edit the `/etc/hostname` file with a new hostname, save it,  and reboot."
+msgstr ""
+
+#: src/General/FAQ.md:184
+msgid "How do I switch to X11 on KDE Plasma Desktop images?"
+msgstr ""
+
+#: src/General/FAQ.md:186
+msgid "**Note**: `-nvidia` images already include X11, but not for long."
+msgstr ""
+
+#: src/General/FAQ.md:188
+msgid ""
+"Install the required X11 package in a host terminal with this **command**:"
+msgstr ""
+
+#: src/General/FAQ.md:194
+msgid "Reboot and select X11 as your session in the login screen."
+msgstr ""
+
+#: src/General/FAQ.md:196
+msgid ""
+"**WARNING**: When the Fedora 41 builds of Bazzite (v. 4.0.0+) are released "
+"then you **must remove this package** to update properly."
+msgstr ""
+
+#: src/General/FAQ.md:198
+msgid "Why are builds failing?"
+msgstr ""
+
+#: src/General/FAQ.md:200
+msgid "![Builds Failing|178x43](upload://tH4LmnMi2rlt2dq0EXCDTG6rtKU.png)"
+msgstr ""
+
+#: src/General/FAQ.md:202
+msgid ""
+"Do not be alarmed if you see this on our [Github repository](https://github."
+"com/ublue-os/bazzite/). Builds can fail for a number of reasons, but it's "
+"only temporary.  You can still install and use Bazzite without any issues.  "
+"Latest features and fixes may be delayed until the builds are successfully "
+"built again however."
+msgstr ""
+
+#: src/General/FAQ.md:204
+msgid "How do I report a bug?"
+msgstr ""
+
+#: src/General/FAQ.md:206
+msgid "https://universal-blue.discourse.group/docs?topic=1470"
+msgstr ""
+
+#: src/General/FAQ.md:208
+msgid "Update before reporting"
+msgstr ""
+
+#: src/General/FAQ.md:210
+msgid ""
+"First, see if the bug is already fixed in an update by [manually updating "
+"the system](https://universal-blue.discourse.group/docs?topic=36), then "
+"rebooting to see if the issue still persists between updates."
+msgstr ""
+
+#: src/General/FAQ.md:212
+msgid "Attaching system logs"
+msgstr ""
+
+#: src/General/FAQ.md:213 src/Installing_and_Managing_Software/ujust.md:11
+msgid "Open a host terminal and **enter**:"
+msgstr ""
+
+#: src/General/FAQ.md:217
+msgid "Attach the link that it outputs for system logs."
+msgstr ""
+
+#: src/General/FAQ.md:219
+msgid "Experience a crash?"
+msgstr ""
+
+#: src/General/FAQ.md:226
+msgid "Translations:"
+msgstr ""
+
+#: src/General/FAQ.md:228
+msgid "[**Español**](https://universal-blue.discourse.group/docs?topic=411)"
+msgstr ""
+
+#: src/General/FAQ.md:230
+msgid ""
+"**Documentation Contributors**: [Kyle Gospodnetich](https://github.com/"
+"KyleGospo), [RJ Trujillo](https://github.com/EyeCantCU), [Nathaniel "
+"Warburton](https://github.com/storyaddict), and [Jorge Castro](https://"
+"github.com/castrojo)"
+msgstr ""
+
+#: src/General/FAQ.md:232
+msgid "**See also**: https://universal-blue.discourse.group/docs?topic=37"
+msgstr ""
+
+#: src/General/FAQ.md:234 src/General/Installation_Guide/index.md:35
+#: src/General/Contributing_to_Bazzite.md:43 src/Gaming/index.md:41
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:217
+msgid "\\<\\-- [**View all Bazzite documentation**](/Introduction.html)"
+msgstr ""
+
+#: src/General/Installation_Guide/index.md:1
+msgid "Installation Guide"
+msgstr ""
+
+#: src/General/Installation_Guide/index.md:3
+msgid "**Important Installation Notes**:"
+msgstr ""
+
+#: src/General/Installation_Guide/index.md:5
+msgid "A physical wired keyboard is **required**."
+msgstr ""
+
+#: src/General/Installation_Guide/index.md:6
+msgid "Create a User Account with a **username** and a **user password**."
+msgstr ""
+
+#: src/General/Installation_Guide/index.md:7
+msgid ""
+"The installer _may_ automatically select all the available drives in your "
+"device to install on."
+msgstr ""
+
+#: src/General/Installation_Guide/index.md:8
+msgid ""
+"Make sure to only select the appropriate drives to avoid losing data on "
+"others, and it is best practice to safely remove any external drives before "
+"proceeding."
+msgstr ""
+
+#: src/General/Installation_Guide/index.md:9
+msgid ""
+"Secure Boot is supported on most hardware, but you must [enroll our key]"
+"(https://universal-blue.discourse.group/docs?topic=2742)."
+msgstr ""
+
+#: src/General/Installation_Guide/index.md:11
+msgid "Choose Your Hardware:"
+msgstr ""
+
+#: src/General/Installation_Guide/index.md:13
+msgid ""
+":desktop_computer: [Installing Bazzite for **Desktop/Laptop Hardware**]"
+"(https://universal-blue.discourse.group/docs?topic=1146)"
+msgstr ""
+
+#: src/General/Installation_Guide/index.md:15
+msgid ""
+"[:gear: Installing Bazzite for **Framework Laptop 16**](https://universal-"
+"blue.discourse.group/docs?topic=1819)"
+msgstr ""
+
+#: src/General/Installation_Guide/index.md:17
+msgid ""
+"[:computer: Installing Bazzite for **Framework Laptop 13 (AMD/Intel GPU)**]"
+"(https://universal-blue.discourse.group/docs?topic=1818)"
+msgstr ""
+
+#: src/General/Installation_Guide/index.md:19
+msgid ""
+":video_game: [Installing Bazzite for **Home Theater PC (HTPC) Setups**]"
+"(https://universal-blue.discourse.group/docs?topic=1145)\\*"
+msgstr ""
+
+#: src/General/Installation_Guide/index.md:21
+msgid ""
+":steam_locomotive: [Installing Bazzite on the **Steam Deck**](https://"
+"universal-blue.discourse.group/docs?topic=1143)\\*"
+msgstr ""
+
+#: src/General/Installation_Guide/index.md:23
+msgid ""
+":pager: [Installing Bazzite on **Handheld PCs**](https://universal-blue."
+"discourse.group/docs?topic=1144)\\*"
+msgstr ""
+
+#: src/General/Installation_Guide/index.md:25
+msgid ""
+"\\*\\*Indicates that [\\*\\*Steam Gaming Mode\\*\\_](https://universal-blue."
+"discourse.group/docs?topic=37) is intended for this device and ships with "
+"the ISO.\\_"
+msgstr ""
+
+#: src/General/Installation_Guide/index.md:27
+msgid "Issues Installing Bazzite?"
+msgstr ""
+
+#: src/General/Installation_Guide/index.md:29
+msgid ""
+"The workarounds detailed in the guide are also useful for **downloading a "
+"smaller ISO size**."
+msgstr ""
+
+#: src/General/Installation_Guide/index.md:31
+msgid ""
+"View the [**Troubleshooting Guide**](https://universal-blue.discourse.group/"
+"docs?topic=2495) for installation workarounds."
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:1
+msgid "Customizing KDE Plasma"
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:3
+msgid ""
+"A fantastic resource on KDE themes can be found [here](https://itsfoss.com/"
+"properly-theme-kde-plasma/) for more information."
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:5
+msgid ""
+"KDE Plasma is the default Bazzite desktop environment and is highly "
+"customizable. One of the various customization that can be done is "
+"installing custom styles, cursors, and icons to your system with custom "
+"themes made by the community."
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:7
+msgid ""
+"Do **not** install themes with the built-in KDE system settings installer "
+"since it may not install properly because the filesystem is slightly "
+"different than most Linux operating systems. Install themes manually into "
+"your Home directory and follow instructions from the author if necessary."
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:9
+msgid "![Directory|401x207, 75%](../img/desktop_tweaks_1.png)"
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:11
+msgid "Universal instructions for most custom themes"
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:13
+msgid ""
+"Download the theme manually from the [KDE Store](https://store.kde.org/"
+"browse/)"
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:14
+msgid ""
+"Extract the contents to `~/.local/share/plasma/` (you may need to make this "
+"directory) 2a. \"Global themes\" are placed in `~/.local/share/plasma/look-"
+"and-feel/` (you may need to make this directory) 2b. \"Plasma themes\" are "
+"placed in `~/.local/share/plasma/desktoptheme/` (you may need to make this "
+"directory) 2c. SDDM\\* themes are placed in `/etc/sddm/themes` (you may need "
+"to make this directory) 2c1. SDDM\\* themes can also be layered at your own "
+"risk if they are available as RPM packages 2d. \"Icon/Cursor themes\" are "
+"placed in `~/.icons` 2da. Some Flatpaks need filesystem permissions for "
+"applications that have issues with cursor themes (`~/.icons/:ro` in "
+"\"Filesystem\" in each problematic application or globally in Flatseal)"
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:21
+msgid ""
+"Open system settings and select your theme, style, cursor, etc. as it now "
+"should appear"
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:23
+msgid "\\*_SDDM is the login manager_."
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:25
+msgid "Themes that require `kvantum`"
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:27
+msgid ""
+"Some themes require [`kvantum`](https://github.com/tsujan/Kvantum/blob/"
+"master/Kvantum/README.md) to be installed on the host system."
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:29
+msgid "Install it with this **command**:"
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:35
+msgid "Wallpaper Engine Guide (_Only on KDE Images_)"
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:37
+msgid ""
+"**Note**: Not all wallpapers are compatible and may even cause issues since "
+"most are not intended for use on the Linux desktop."
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:39
+msgid ""
+"![KDE Wallpaper Settings|682x500, 75%](../img/kde_wallpaper_settings.png)"
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:41
+msgid "![Wallpaper settings|549x500, 75%](../img/wallpaper_settings.png)"
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:43
+msgid ""
+"[Wallpaper Engine](https://www.wallpaperengine.io/en) is a live wallpaper "
+"application intended for Windows."
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:45
+msgid ""
+"Read this [guide](https://github.com/catsout/wallpaper-engine-kde-plugin/"
+"blob/main/README.md#usage) on how to set it up on KDE Plasma."
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:49
+msgid "Manage GNOME Extensions (`-gnome` Images)"
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:51
+msgid ""
+"View the [Bluefin documentation](https://universal-blue.discourse.group/docs?"
+"topic=166) since most of the information will be relevant to Bazzite as well."
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:55
+msgid "Steam Gaming Mode Tweaks (`-deck` Images)"
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:57
+msgid ""
+"Install [Decky Loader](https://decky.xyz/) then install [CSS Loader](https://"
+"docs.deckthemes.com/) to customize how Steam Gaming Mode looks. Be aware "
+"that third-party plugins may cause issues. Read Bazzite's [Steam Gaming Mode "
+"documentation](https://universal-blue.discourse.group/docs?topic=37) to "
+"resolve common issues if you run into them after using Decky Loader."
+msgstr ""
+
+#: src/General/Desktop_Environment_Tweaks.md:61
+msgid "[**\\<\\-- See all Bazzite documentation**](https://docs.bazzite.gg)"
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:1
+msgid "**Preliminary Reading**:"
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:3
+msgid "<https://universal-blue.discourse.group/docs?topic=51>"
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:5
+msgid "<https://universal-blue.discourse.group/docs?topic=81>"
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:9
+msgid "Overview"
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:11
+msgid ""
+"Bazzite is an image from [Universal Blue](https://universal-blue.org/) and "
+"you should follow Universal Blue's [contribution guidelines](https://"
+"universal-blue.org/CONTRIBUTING) before proceeding. Also read our "
+"[documentation guidelines](https://universal-blue.discourse.group/docs?"
+"topic=890) if contributing to documentation."
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:13
+msgid ""
+"Check out the Bazzite's [issue tracker](https://github.com/ublue-os/bazzite/"
+"issues) to see what issues users are currently experiencing. Also check out "
+"the current [roadmap](https://github.com/orgs/ublue-os/projects/1/views/1) "
+"for Universal Blue. There is also a [forum](https://universal-blue.discourse."
+"group/c/contributing/7) for general Universal Blue contributions."
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:15
+msgid "Contributing to Bazzite"
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:17
+msgid ""
+"Adding features or fixing bugs by submitting a [pull request](https://github."
+"com/ublue-os/bazzite/pulls)."
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:18
+msgid ""
+"Reporting issues you experience on our [issue tracker](https://github.com/"
+"ublue-os/bazzite/issues)."
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:19
+msgid "Adding and contributing to [documentation](https://docs.bazzite.gg)."
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:20
+msgid ""
+"Language translations are encouraged for documentation and the [README]"
+"(https://github.com/ublue-os/bazzite/blob/main/README.md)."
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:21
+msgid "Testing Bazzite on unique hardware configurations."
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:22
+msgid "Troubleshooting issues with handheld hardware is appreciated."
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:23
+msgid ""
+"Reporting issues with [HHD](https://github.com/hhd-dev/hhd) directly is also "
+"helpful on handhelds."
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:25
+msgid "Building Your Own Bazzite"
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:27
+msgid "**Instructions found here:**"
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:29
+msgid "<https://github.com/ublue-os/image-template>"
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:31
+msgid ""
+"If you feel comfortable with bash scripting, programming, working with "
+"containers, or anything upstream (Fedora, Flatpak, etc.) then feel free to "
+"contribute to Bazzite if you have want to add a feature or bug fix."
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:33
+msgid ""
+"Building your own Bazzite will give you a sandbox to play in with your own "
+"personal changes to it. Also, this can be your own version of Bazzite to "
+"daily drive. This is useful to receive the same updates upstream, but with "
+"your spin on it with differences that we cannot or will not include "
+"regarding specific packages, drivers, etc."
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:35
+msgid "Alternative Method"
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:37
+msgid ""
+"Using the unaffiliated [BlueBuild](https://blue-build.org/learn/universal-"
+"blue/) project to build your own Bazzite."
+msgstr ""
+
+#: src/General/Contributing_to_Bazzite.md:41
+msgid ""
+"**See also**: [Fork Your Own Image](https://universal-blue.discourse.group/"
+"docs?topic=43)"
+msgstr ""
+
+#: src/Gaming/index.md:1
+msgid "Linux Gaming Introduction"
+msgstr ""
+
+#: src/Gaming/index.md:3
+msgid ""
+"Linux gaming being a viable competitor to Windows is a relatively new "
+"paradigm. Most Windows exclusive games can run on Bazzite using modern "
+"hardware. There are still some rough edges, but gaming on Linux does offer "
+"advantages on the appropriate hardware such as better frame-times than on "
+"Windows."
+msgstr ""
+
+#: src/Gaming/index.md:5
+msgid "[Game Launchers](Game_Launchers.md)"
+msgstr ""
+
+#: src/Gaming/index.md:7
+msgid "Setting Up Steam"
+msgstr ""
+
+#: src/Gaming/index.md:8
+msgid "Non-Steam Games"
+msgstr ""
+
+#: src/Gaming/index.md:9
+msgid "Available Options"
+msgstr ""
+
+#: src/Gaming/index.md:10
+msgid "Configuring Lutris"
+msgstr ""
+
+#: src/Gaming/index.md:11
+msgid "Gamepass Using Xbox Cloud Gaming"
+msgstr ""
+
+#: src/Gaming/index.md:13
+msgid ""
+"[Managing & Modding Games](https://universal-blue.discourse.group/docs?"
+"topic=2657)"
+msgstr ""
+
+#: src/Gaming/index.md:14
+msgid "Compatibility Layers"
+msgstr ""
+
+#: src/Gaming/index.md:15
+msgid "Proton Prefix Information"
+msgstr ""
+
+#: src/Gaming/index.md:16
+msgid "Hidden Files in File Manager"
+msgstr ""
+
+#: src/Gaming/index.md:17
+msgid "Modding Quick-Start"
+msgstr ""
+
+#: src/Gaming/index.md:18
+msgid "Pre-Installed Enhancements"
+msgstr ""
+
+#: src/Gaming/index.md:19
+msgid "[Common Issues](https://universal-blue.discourse.group/docs?topic=2658)"
+msgstr ""
+
+#: src/Gaming/index.md:20
+msgid "Proton Logs"
+msgstr ""
+
+#: src/Gaming/index.md:21
+msgid "Native Linux Builds vs. Proton"
+msgstr ""
+
+#: src/Gaming/index.md:22
+msgid "Issues with Valve/Source Games"
+msgstr ""
+
+#: src/Gaming/index.md:23
+msgid ""
+"[Hardware Compatibility for Gaming](https://universal-blue.discourse.group/"
+"docs?topic=2659)"
+msgstr ""
+
+#: src/Gaming/index.md:24
+msgid "Vulkan Version Diagnostic"
+msgstr ""
+
+#: src/Gaming/index.md:25
+msgid "Information Regarding Unsupported Filesystems"
+msgstr ""
+
+#: src/Gaming/index.md:27
+msgid "Useful External Resources"
+msgstr ""
+
+#: src/Gaming/index.md:29
+msgid ""
+"[**ProtonDB**](https://www.protondb.com/explore) - User reports for game "
+"compatibility on Linux"
+msgstr ""
+
+#: src/Gaming/index.md:30
+msgid ""
+"[**Are We Anti-Cheat Yet?**](https://areweanticheatyet.com/) - List of "
+"popular games utilizing anti-cheat software and if the game supports Linux"
+msgstr ""
+
+#: src/Gaming/index.md:31
+msgid ""
+"[**Linux Gaming Wiki**](https://linux-gaming.kwindu.eu/index.php?"
+"title=Main_Page) - Introduction to Linux gaming that includes useful "
+"external resources"
+msgstr ""
+
+#: src/Gaming/index.md:32
+msgid ""
+"[**PC Gaming Wiki**](https://www.pcgamingwiki.com/wiki/Home) - General "
+"information, workarounds, and enhancements for PC games"
+msgstr ""
+
+#: src/Gaming/index.md:33
+msgid ""
+"[**General Emulation Wiki**](https://emulation.gametechwiki.com/index.php/"
+"Main_Page) - Emulation resources"
+msgstr ""
+
+#: src/Gaming/index.md:37
+msgid ""
+"**Documentation Contributors**: [Kyle Gospodnetich](https://github.com/"
+"KyleGospo), [RJ Trujillo](https://github.com/EyeCantCU), [Benjamin Shermin]"
+"(https://github.com/bsherman), [Nathaniel Warburton](https://github.com/"
+"storyaddict), and [Jorge Castro](https://github.com/castrojo)"
+msgstr ""
+
+#: src/Gaming/index.md:39
+msgid ""
+"**See also**: [Steam Deck Gaming Mode Overview](https://universal-blue."
+"discourse.group/docs?topic=37)"
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:3
+msgid "**Steam Setup**"
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:5
+msgid ""
+"Steam can run Windows games on Linux. It utilizes a wide range of projects "
+"and patches all packed into a piece of software built-in to Steam called "
+"[Proton](https://github.com/ValveSoftware/Proton) for Windows compatibility."
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:7
+msgid "Enabling Proton For All Steam Games"
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:9
+msgid ""
+"**Note**: Skip this section if you're using a [_Handheld/HTPC_](https://"
+"universal-blue.discourse.group/docs?topic=37) image."
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:11
+msgid ""
+"Currently Steam only allows whitelisted games to run by default on the "
+"desktop Steam client."
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:12
+msgid ""
+"You can change this by going into the Steam **Settings** > **Compatibility** "
+"> Check **Enable Steam Play for all other titles**"
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:14
+msgid ""
+"![Steam Settings|256x267, 75%](../img/steam_settings.png) ![Compatibility|"
+"589x499, 75%](../img/compatibility.png)"
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:17
+msgid "Forcing A Specific Proton / Steam Play Tool Version"
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:19
+msgid "Games with a Linux port will be used by default on Desktop images."
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:20
+msgid "Valve selects the default runner on _Handheld/HTPC_ images."
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:21
+msgid ""
+"Some games run better with a specific version of Proton or forcing the Linux "
+"runtime."
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:22
+msgid ""
+"Run that specific version by going into the game's **Properties** > "
+"**Compatibility** > **Force the use of a specific Steam Play compatibility "
+"tool**"
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:24
+msgid ""
+"![Cog Icon > Properties|690x284, 75%](upload://zo1TyrRxr8Fu48ACJg34pWKvF7P."
+"png) ![Compatibility tab|690x492, 75%](upload://iiTx9285kbPupqLDGX4ak4RIvdm."
+"png)"
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:27
+msgid "**Non-Steam Games**"
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:29
+msgid ""
+"**It is recommended to use [Lutris](https://lutris.net/games?q=&ordering=-"
+"popularity&paginate_by=100) for _most_ non-steam games**."
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:30
+msgid ""
+"[Heroic Games Launcher](https://heroicgameslauncher.com) is intended as a "
+"suitable replacement for the Epic Games Launcher."
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:31
+msgid ""
+"[Bottles](https://usebottles.com/) is an alternative to Lutris and great for "
+"non-gaming Windows software."
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:32
+msgid ""
+"Other games and launchers are also available in the software center "
+"(_Discover_ or _GNOME Software_) like itch.io."
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:34
+msgid "Lutris Setup"
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:36
+msgid "![Lutris|617x500, 75%](upload://3s2iqYP1Q1ZeCpMaQapqhG4gR1V.png)"
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:38
+msgid ""
+"![Example of Lutris installers|623x500, 75%]"
+"(upload://1WR6qGSLGJ0oRkdwvCFwhCZllq0.png)"
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:40
+msgid ""
+"Lutris is game management software that doubles as a WINE front-end for "
+"Windows games. Several games and launchers can be installed by searching for "
+"the title and using one of the installer scripts for it."
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:42
+msgid "Manually adding a Windows game to Lutris"
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:44
+msgid ""
+"However if your game is not listed or doesn't work with the provided script, "
+"then manually add the executable. Add locally installed game and make sure "
+"to configure it properly within the game and runner options."
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:46
+msgid "![manually|632x496, 75%](upload://9NC0GjEllRMgpuaLmB2d5pcihgz.png)"
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:48
+msgid ""
+"![Lutris manually adding games|690x342, 75%](upload://"
+"yszYNbYIAwCw4otGldSK6C29Jus.png)"
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:50
+msgid "Lutris Shortcuts"
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:52
+msgid ""
+"![Lutris_Right_Click_Menu|421x447, 75%](upload://qvbF55nS5md6nMp7L5w0V97EBLR."
+"png)"
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:54
+msgid ""
+"Right clicking a game on Lutris gives the option to add it as a non-Steam "
+"game (useful for Steam Gaming Mode), create a desktop shortcut, or an "
+"application menu shortcut."
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:56
+msgid "Gamepass / Microsoft Store Games (Cloud Streaming)"
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:58
+msgid ""
+"Games installed from the Microsoft Store do **not** run on desktop Linux "
+"unless you use a xCloud client like [Greenlight](https://github.com/"
+"unknownskl/greenlight)."
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:60
+msgid "Auto-Mounting Secondary Gaming Drives"
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:62
+msgid ""
+"View this [guide](https://universal-blue.discourse.group/docs?topic=970) for "
+"forcing secondary drives to automatically mount on boot. This is useful if "
+"you have games on this drive and do not want to manually mount it before "
+"starting Steam on Desktop images."
+msgstr ""
+
+#: src/Gaming/Game_Launchers.md:66
+msgid "[**\\<\\-- Back to Gaming Guide**](index.md)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:1
+msgid "General Information"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:3
+msgid ""
+"**For Handheld PC users only**: View our [Handheld Wiki](../Handheld_Wiki/"
+"index.md) for post-installation setup, workarounds, and known issues on "
+"handheld hardware."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:5
+msgid "![Steam Gaming Mode UI|690x430](../../img/Steam_Gaming_Mode_UI.jpg)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:7
+msgid "What is Steam Gaming Mode?"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:11
+msgid ""
+"**Steam Deck UI Tour by [Linux For Everyone](https://www.youtube.com/"
+"@LinuxForEveryone)**"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:13
+msgid ""
+"Bazzite utilizes Steam Gaming Mode by [forking ChimeraOS’s `gamescope-"
+"session` ](https://github.com/KyleGospo/gamescope-session) and modifying it "
+"to fit the needs of our operating system. Steam Gaming Mode is also referred "
+"to as \"gamepadUI\" and \"gamescope-session\" but Bazzite documentation will "
+"usually refer to it as \"Steam Gaming Mode\" most of the time."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:15
+msgid ""
+"Steam Gaming Mode is what SteamOS on the Steam Deck is built around. A "
+"simple interface that is controller-friendly built around Steam's \"Big "
+"Picture Mode\" UI/UX. The minimal session only runs the bare minimum in the "
+"background, so most of the hardware resources is going towards the game "
+"being played. [Gamescope](https://github.com/ValveSoftware/gamescope) is the "
+"main ingredient in Steam Gaming Mode which gives users options to set a "
+"framerate cap, resolution scaling options, etc."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:17
+msgid "What are the HTPC/Handheld Images?"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:19
+msgid ""
+"**Note**: The Steam beta client is **not** supported, please revert to the "
+"stable client before reporting issues."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:21
+msgid ""
+"Bazzite for Steam Deck hardware, Home Theater PC setups, and other Handheld "
+"PCs like the Lenovo Legion Go and Asus ROG Ally."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:23
+msgid ""
+"It is intended to be a controller-friendly environment and give users a "
+"\"console-like\" experience similar to SteamOS for the Steam Deck. It is "
+"intended for both handhelds and home theatre PC setups. Bazzite is similar "
+"to SteamOS by sharing many packages that SteamOS includes, so it is ready to "
+"game as soon the installation process is finished."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:25
+msgid ""
+"This documentation may not cover specific areas with the assumption that the "
+"user is already aware of SteamOS and how it works. If you are unfamiliar "
+"with something that cannot be found in our [documentation](https://docs."
+"bazzite.gg), then research your specific question with \"SteamOS\" or "
+"\"Steam Deck\" as keywords in your search. Otherwise, ask your question on "
+"our [forums](https://universal-blue.discourse.group/c/bazzite/5) or [Discord]"
+"(https://discord.gg/f8MUghG5PB)."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:29
+msgid "Common Questions & Issues for Steam Gaming Mode"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:31
+msgid "How do I open the on-screen keyboard?"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:33
+msgid "**Note**: Steam must be running to access the keyboard."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:35
+msgid ""
+"By default it is bound to the <kbd>Steam</kbd> + <kbd>X</kbd> on the Steam "
+"Deck."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:36
+msgid ""
+"For other handhelds it may require turning on Desktop Controls and "
+"configuring it manually."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:37
+msgid ""
+"After that it is usually a combination of <kbd>X</kbd> (or equivalent) + one "
+"of the specific buttons your handheld has and it may also not be configured "
+"for your device out of the box."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:39
+msgid "Update and Changelog Inaccuracy"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:43
+msgid ""
+"The update indicator is not accurate and will most likely look it's stuck at "
+"\"99%\" for a long time. This is due to the update component not containing "
+"a live progress indicator, so it cannot hook into Steam Gaming Mode "
+"properly. After a while, the update progress bar will appear done and ask "
+"for a reboot."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:45
+msgid "Desktop Mode"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:47
+msgid ""
+"In Desktop Mode, run our _System Update_ tool for an accurate update visual "
+"if you are unsure if your system has actually updated properly in Gaming "
+"Mode. When the update has finished, it will output what has completed "
+"successfully. Alternatively, open a host terminal and **enter**:"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:53
+msgid "Changelog"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:55
+msgid ""
+"The changelog is specifically for SteamOS by Valve, so the upgrade for "
+"Bazzite may not apply. Check out our [newsletters](https://universal-blue."
+"discourse.group/docs?topic=2252) for major changes and features. If you want "
+"to see the patch notes in real time, check the newest [commits](https://"
+"github.com/ublue-os/bazzite/commits/main) on Github."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:57
+msgid "View a changelog to the next update in the terminal by **entering**:"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:63
+msgid "How do I access GRUB?"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:65
+msgid ""
+"[GRUB](https://www.gnu.org/software/grub/manual/grub/grub.html#Overview) is "
+"hidden by default."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:67
+msgid ""
+"Keep in mind, other handhelds and controllers may not be able to unhide GRUB "
+"without a physical keyboard connected, but a `ujust` command can be "
+"performed to unhide it permanently."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:69
+msgid "Enter this command in the terminal to have it appear every boot:"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:75
+msgid "Select \"unhide\" to have GRUB appear on boot."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:77
+msgid ""
+"View the [Rollback guide](https://universal-blue.discourse.group/docs?"
+"topic=2644) for more information."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:79
+msgid "How do I open the Quick Access Menu (QAM) with a physical keyboard?"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:81
+msgid "<kbd>Ctrl</kbd>+<kbd>2</kbd>"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:83
+msgid "Change physical keyboard layout for Steam Gaming Mode"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:85
+msgid ""
+"See [Change Physical Keyboard Layout for Steam Gaming Mode](../"
+"Change_Physical_Keyboard_Layout_for_Steam_Gaming_Mode.md)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:87
+msgid "Why do specific Decky Loader plugins not function on Bazzite?"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:89
+msgid "Bazzite does not provide the functionality."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:90
+msgid ""
+"[PauseGames](https://github.com/popsUlfr/SDH-PauseGames) requires a swapfile "
+"while Bazzite utilizes zram for example."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:92
+msgid ""
+"How do I specify the correct monitor for Gaming Mode to use? (HTPC only)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:94
+msgid "Go into desktop mode and open `ptyxis` our terminal and run"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:101
+msgid ""
+"add this to the file: `OUTPUT_CONNECTOR=DP-1` change `DP-1` to the correct "
+"output. You can find your display outputs on KDE using the command"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:110
+msgid "You can find your display outputs in GNOME using this command"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:116
+msgid ""
+"Save with <kbd>CTRL</kbd> + <kbd>X</kbd> then pressing <kbd>Y</kbd> followed "
+"by <kbd>ENTER</kbd>"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:118
+msgid "How do I specify which GPU that Steam Gaming Mode should use?"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:120
+msgid ""
+"Open a TTY session with an **external physical keyboard** using this "
+"**keyboard combination**: <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>F4</kbd>"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:127
+msgid "**Alternatively**, in Desktop Mode, enter in a host terminal:"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:133
+msgid "Select the GPU to use for Steam Gaming Mode."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:135
+msgid "How do I use SteamDeckGyroDSU on hardware that isn't the Steam Deck?"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:137
+msgid ""
+"You cannot use SteamDeckGyroDSU outside of the Steam Deck, but you can try "
+"disabling Steam Input and it _may_ work depending on your hardware and use "
+"case."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:139
+msgid ""
+"How do I disable certain \"Steam Deck\" features that conflict with my setup?"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:141
+msgid "**Scenarios**:"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:143
+msgid "_Example 1_: Keyboard and mouse is not working for this title."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:144
+msgid ""
+"_Example 2_: The game's launcher for adjusting video settings or adding mods "
+"does not launch."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:145
+msgid "_Example 3_: Certain features/options are not available for Steam Deck."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:147
+msgid "Open the game's properties on Steam and **enter this launch option**:"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:153
+msgid "Stuck at the Bazzite logo"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:155
+msgid "https://www.youtube.com/watch?v=gE1ff72g2Gk"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:157
+msgid ""
+"**Attention**: Try rebooting your device first before proceeding with the "
+"next steps."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:159
+msgid ""
+"Resolve this by opening a TTY session with an **external physical keyboard** "
+"using this **keyboard combination and entering this command**: <kbd>Ctrl</"
+"kbd>+<kbd>Alt</kbd>+<kbd>F4</kbd> and `mv ~/.local/share/Steam ~/.local/"
+"share/Steam1`"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:161
+msgid ""
+"This command will rename the `Steam` directory to `Steam1`, and it will "
+"force Steam to reinitialize and create a new directory"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:162
+msgid ""
+"You can move your games from the renamed `Steam1` directory to the new "
+"`Steam` directory if you had any installed previously on your internal "
+"storage"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:163
+msgid ""
+"Exit the TTY session by entering this **keyboard combination**: <kbd>Ctrl</"
+"kbd> + <kbd>Alt</kbd> + <kbd>F2</kbd>"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:165
+msgid "\"Something went wrong while displaying this content\" Error"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:167
+msgid ""
+"This is most likely due to a broken Decky Loader plugin you have installed. "
+"The easiest fix is to uninstall the broken plugin. CSS Loader themes can "
+"also cause this issue."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:169
+msgid "Audio output not working (Default Device)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:171
+msgid "This issue happens usually with HDMI TV audio."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:173
+msgid ""
+"Go into Desktop Mode and into the system settings to adjust the sound "
+"settings. Disable devices that do not match the sound output that you're "
+"using. An example of this is disabling all the things that aren't HDMI for "
+"your TV audio."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:175
+msgid "I lost my \"Return to Gaming Mode\" shortcut"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:177
+msgid ""
+"You can restore this shortcut by creating a text file called `Return."
+"desktop` and adding these specific lines to it:"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:179
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:59
+msgid "KDE"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:203
+msgid "Save it and place it in the `Desktop` directory."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:207
+msgid "Valve's Official SteamOS Guide"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:209
+msgid ""
+"**Note**: Not all of the information will be accurate in regards to Bazzite."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:211
+msgid "https://help.steampowered.com/en/faqs/view/7DD4-C618-182E-0E49"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md:215
+msgid ""
+"**See also**: [Gaming Guide](https://universal-blue.discourse.group/docs?"
+"topic=31)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Change_Physical_Keyboard_Layout_for_Steam_Gaming_Mode.md:1
+msgid ""
+"As of writing, gamescope-session has no way to change the physical keyboard "
+"layout and will default to the US layout."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Change_Physical_Keyboard_Layout_for_Steam_Gaming_Mode.md:3
+msgid ""
+"If you want to change the layout for gamescope, you can set the environment "
+"variable `XKB_DEFAULT_LAYOUT=no` replacing `no` with the correct layout for "
+"you. you can add this to `~/.config/environment.d/10-gamescope-session.conf` "
+"If the file or folder does not exist... make them :magic_wand:"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Change_Physical_Keyboard_Layout_for_Steam_Gaming_Mode.md:7
+msgid ""
+"This works on desktop mode for things running in nested gamescope and also "
+"works for gamescope-session, but it has its own quirks (like `altgr+2` to "
+"write `@` on the norwegian layout will still not work, but the basic "
+"keyboard layout will always work, `altgr` is luckily not needed for normal "
+"typing on the norwegian layout, however `altgr` has been reported to work on "
+"the french layout, your mileage may vary)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Change_Physical_Keyboard_Layout_for_Steam_Gaming_Mode.md:11
+#: src/Installing_and_Managing_Software/index.md:52
+msgid ""
+"**Documentation Contributors**: [HikariKnight](https://github.com/"
+"HikariKnight)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:1
+msgid "Handheld Compatibility"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:3
+msgid ""
+"This list is incomplete and does not indicate that unlisted handhelds do not "
+"work with Bazzite currently, but because we lack specific information "
+"regarding their post-installation setup, workarounds, and proper support "
+"they are unlisted here."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:5
+msgid "[Steam Deck](Steam_Deck.md)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:6
+msgid "[Lenovo Legion Go](Lenovo_Legion_Go.md)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:7
+msgid "[ASUS ROG Ally](ASUS_ROG_Ally.md)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:8
+msgid "[Ayn Handhelds](Ayn_Handhelds.md)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:9
+msgid "[GPD Handhelds](GPD_Handhelds.md)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:10
+msgid "[Ayaneo Handhelds](Ayaneo_Handhelds.md)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:11
+msgid "[Other Handhelds](Other_Handhelds.md)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:13
+msgid "Support Rating"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:15
+msgid ""
+"Bazzite takes a similar approach to [ProtonDB’s medal system](https://www."
+"protondb.com/) by giving a generic label rating for each handheld."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:17
+msgid ""
+"**Platinum**: No major issues and/or simple workarounds are needed for small "
+"fixes."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:18
+msgid ""
+"**Gold**: Minor issues and/or simple workarounds required, but ultimately "
+"works."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:19
+msgid ""
+"**Silver**: Major issues and/or exhaustive workarounds required, but boots "
+"and can game."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:20
+msgid ""
+"**Bronze**: Major issues and/or exhaustive workarounds, but boots and "
+"displays a desktop."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:21
+msgid "**Borked**: Bazzite does not boot on this hardware."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:22
+msgid ""
+"**Unknown** (_unlisted_): The handheld is not listed here and a general "
+"guide is under “Other Handhelds.”"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:24
+msgid "\\[x\\] = _Bazzite works well on this hardware._"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:26
+msgid "HHD Setup"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:28
+msgid ""
+"HHD is intended and functional for handhelds that are **not** the Steam Deck."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:30
+msgid ""
+"**Read the [HHD README](https://github.com/hhd-dev/hhd/blob/master/readme."
+"md) for more information.**"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:32
+msgid ""
+"Double press side menu button to access Handheld Daemon overlay in Steam "
+"Gaming Mode"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:33
+msgid ""
+"Select the controller emulation and RGB color you want 2a. Gyro "
+"functionality **requires** DualSense emulation"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:36
+msgid "Decky Plugins"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:38
+msgid ""
+"**Note**: Decky may break or uninstall after updates especially if the Steam "
+"client or Gamescope is updated."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:40
+msgid ""
+"Install optional [Decky plugins](https://plugins.deckbrew.xyz/) for your "
+"handheld."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:42
+msgid "Bazzite's Steam Gaming Mode Documentation"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:44
+msgid ""
+"Check out the [Steam Gaming Mode documentation](https://universal-blue."
+"discourse.group/docs?topic=37) for an in-depth guide on Steam Gaming Mode "
+"plus general fixes for common issues."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:46
+msgid "eGPU Support"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:48
+msgid "eGPU is **not** a fully supported feature and has many caveats."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:50
+msgid "Modern AMD GPUs _should_ work."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:51
+msgid "Nvidia GPUs are most completely unsupported."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:52
+msgid ""
+"Proprietary connectors, like the one for the ASUS ROG Ally, will not work."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:54
+msgid "**Recommended Script**: <https://github.com/ewagner12/all-ways-egpu>"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:59
+msgid ""
+"**Documentation Contributors**: [Antheas Kapenekakis](https://github.com/"
+"antheas), [Aarron Lee](https://github.com/aarron-lee), and [Zetarancio]"
+"(https://universal-blue.discourse.group/u/zetarancio)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/index.md:61
+msgid "← [**View all Bazzite documentation**](/Introduction.html)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:1
+msgid "Steam Deck LCD (256GB+) \\[x\\]"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:3
+msgid "![Steam Deck LCD|690x348, 100%](../../img/steam_deck_lcd.jpeg)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:5
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:5
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:5
+msgid "**Status**: Platinum"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:7
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:22
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:7
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:7
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:45
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:7
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:29
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:7
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:38
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:13
+msgid "Post-Installation Setup"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:9
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:24
+msgid ""
+"No additional setup required, but make sure to read the [installation Guide]"
+"(https://universal-blue.discourse.group/docs?topic=30)."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:10
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:25
+msgid ""
+"It should function nearly identical to SteamOS with the benefits of [Fedora "
+"Atomic Desktop](https://fedoraproject.org/atomic-desktops/):"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:11
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:26
+msgid ""
+"Layer Fedora packages to the image without losing them between updates/"
+"reboots."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:12
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:27
+msgid "Newer package upgrades including the Linux kernel and drivers."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:13
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:28
+msgid ""
+"Printing support and other basic features that would make Bazzite viable for "
+"daily usage."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:14
+msgid ""
+"View our [FAQ](https://universal-blue.discourse.group/docs?topic=33) for "
+"more information."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:16
+msgid "Steam Deck OLED \\[x\\]"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:18
+msgid "![Steam Deck OLED|667x500, 100%](../../img/steam_deck_OLED.jpg)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:20
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:5
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:43
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:5
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:36
+msgid "**Status**: Gold"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:29
+msgid ""
+"View our [FAQ](../../General/FAQ.md#post-installation-faq) for more "
+"information."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:31
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:17
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:18
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:56
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:16
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:38
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:17
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:51
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:22
+msgid "Workarounds / Known Issues"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:33
+msgid ""
+"Similar to using Bazzite on the Steam Deck LCD, but currently suffers from "
+"the following:"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:34
+msgid "Installer requires **Basic Graphics Mode**."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:38
+msgid "How similar is Bazzite to SteamOS on Steam Deck hardware?"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:40
+msgid ""
+"Bazzite should have most of the functionality from SteamOS with Steam Gaming "
+"Mode working as intended."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:42
+msgid ""
+"Bazzite Steam Deck images include the latest Gamescope and packages, which "
+"means we are always ahead of SteamOS in terms of Steam Gaming Mode and "
+"Desktop Mode features."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:44
+msgid ""
+"The Quick Access Menu (accessed with the <kbd>...</kbd> button on Steam "
+"Deck) is functional for TDP, framerate limiting, scaling, etc."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:46
+msgid ""
+"Third-party software like [Decky Loader](https://decky.xyz/), [Emudeck]"
+"(https://www.emudeck.com/), [RetroDeck](https://retrodeck.net/), etc. should "
+"install and function properly."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:48
+msgid "Why should I use Bazzite over SteamOS?"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:50
+msgid ""
+"Bazzite is great for users who feel that the device is too limited by "
+"SteamOS in comparison to other Linux operating systems, but do not want to "
+"sacrifice Steam Gaming Mode, stability, and the user friendliness of SteamOS."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:52
+msgid "Enhancements"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:54
+msgid "Shares packages from SteamOS"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:55
+msgid "Works on different hardware configurations (desktops, handhelds, etc.)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:56
+msgid ""
+"Android applications can be installed with [Waydroid](https://universal-blue."
+"discourse.group/docs?topic=32/)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:57
+msgid "Updating in Steam Gaming Mode will also update installed applications"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:58
+msgid "Access to multiple desktop environments"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:61
+msgid "Budgie (**coming soon**)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:63
+msgid "Daily Driving"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:65
+msgid "System packages that get updated on a regular basis"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:66
+msgid ""
+"Follows Fedora's [update cycle](https://docs.fedoraproject.org/en-US/"
+"releases/lifecycle/) and receive updates directly from upstream"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:67
+msgid ""
+"This includes graphics drivers, the Linux kernel, and desktop environment "
+"upgrades"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:68
+msgid ""
+"Security focused with the [Security Enhanced Linux](https://www.redhat.com/"
+"en/topics/linux/what-is-selinux) kernel module enabled by default"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:69
+msgid "Printing support out of the box"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:70
+msgid "Wayland is the default session for Desktop Mode"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:72
+msgid "Tinkering"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:74
+msgid ""
+"Access to multiple package managers and repositories in [containers](https://"
+"universal-blue.discourse.group/docs?topic=44)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:75
+msgid ""
+"[Layer](https://universal-blue.discourse.group/docs?topic=513) Fedora "
+"packages to the system which survive between updates"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:76
+msgid ""
+"[`ujust`](https://universal-blue.discourse.group/docs?topic=42) commands to "
+"easily setup anything from virtualization support to supporting specific "
+"input peripherals"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:78
+msgid "Will there be any performance improvements with Bazzite?"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:80
+msgid ""
+"Performance should be on par with SteamOS, and every game capable of running "
+"on SteamOS should run on Bazzite. Bazzite and SteamOS share the same "
+"packages, so the difference is usually negligible."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:82
+msgid ""
+"However there are some **advantages** that Bazzite may have in some edge "
+"cases:"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:84
+msgid "Performance Governor"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:85
+msgid ""
+"Bazzite uses powersave w/ [`amd-pstate`](https://www.kernel.org/doc/html/"
+"latest/admin-guide/pm/amd-pstate.html) which is more efficient on the "
+"hardware"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:86
+msgid "MGLRU is already enabled by default by Fedora"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:87
+msgid "Watchdog is disabled by default"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:88
+msgid "Memory lock is tweaked for [RPCS3](https://rpcs3.net/)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:89
+msgid "Kyber I/O scheduler is used"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:90
+msgid "File access times is disabled"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:91
+msgid "Transparent Huge Pages is not used"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:92
+msgid ""
+"Bazzite does not use a swapfile and rely on zram with zstd by default "
+"(compressed memory)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:93
+msgid "Kernel is using 1000hz tick"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:95
+msgid ""
+"Performance tweaks are sourced from this [Medium article](https://medium.com/"
+"@a.b.t./here-are-some-possibly-useful-tweaks-for-steamos-on-the-steam-deck-"
+"fcb6b571b577)."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:97
+msgid "Does the Steam Deck image receive BIOS updates like SteamOS?"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:101
+msgid ""
+"If a BIOS update is available then it will install when you update Bazzite "
+"normally. It also supports controller firmware updates too."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:103
+msgid ""
+"If desired, there is a **command to disable BIOS updates** at your own risk:"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:109
+msgid "Why is the stock 64GB Steam Deck not supported on Bazzite?"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:111
+msgid "It has **filesystem corruptions**."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:113
+msgid ""
+"You will have booting issues, freezes, and will not be able to update the "
+"image."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:115
+msgid "Solution"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:117
+msgid "**At your own risk**: Upgrade the storage to resolve this."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:120
+msgid ""
+"This [post](https://universal-blue.discourse.group/t/my-experience-using-"
+"bazzite-on-the-64gb-steam-deck/125/1) covers a detailed explanation and "
+"first-hand experience of using Bazzite on the stock 64GB Steam Deck."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:124
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:99
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:116
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:95
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:111
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:93
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:72
+msgid ""
+"**See also**: [Steam Gaming Mode Overview](../Steam_Gaming_Mode/index.md)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md:126
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:118
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:97
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:113
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:95
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:74
+msgid "**\\<\\-- Back to [Handheld Wiki](index.md)**"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:1
+msgid "Lenovo Legion Go \\[x\\]"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:3
+msgid "![legion_go|690x387, 100%](../../img/legion_go.jpg)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:9
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:104
+msgid "Open a host terminal and enter the following **commands**:"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:11
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:9
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:47
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:9
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:31
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:9
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:40
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:15
+msgid "Complete the Bazzite Portal"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:12
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:10
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:48
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:10
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:32
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:10
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:41
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:16
+msgid "Login to Steam"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:13
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:11
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:49
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:11
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:33
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:11
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:42
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:17
+msgid "Reboot device"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:14
+msgid "Configure the HHD Overlay by opening it with <kbd>Legion R</kbd>"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:15
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:16
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:54
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:13
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:35
+msgid ""
+"**Optional**: Adjust RGB with Steam Gaming Mode under `Settings > Controller "
+">  Calibration & Advanced > LED Settings`"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:19
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:20
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:18
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:40
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:19
+msgid "Games can sometimes default to 800p resolution."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:20
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:21
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:41
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:20
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:54
+msgid ""
+"Manually change the resolution per game in the `Steam Settings > Properties "
+"> Game Resolution` to either `Native` or other higher resolutions."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:21
+msgid "Performance overlay might be reporting inaccurate power consumption."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:22
+msgid "Adaptive/auto display brightness is currently broken."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:23
+msgid "Manual brightness slider in Steam's UI works without issues."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:24
+msgid "BIOS and controller firmware **require** Windows to update them."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:25
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:45
+msgid ""
+"Virtual keyboard is Steam's keyboard, but needs to be setup in Steam's "
+"settings in Desktop Mode. (See \"Desktop Controls\" section below)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:26
+msgid ""
+"<kbd>**Legion L**</kbd> + <kbd>**X**/**Square**</kbd> (This can be remapped)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:27
+msgid "Try not to change the resolution in Desktop Mode!"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:28
+msgid "Connecting to an external monitor may also cause issues."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:29
+msgid ""
+"If your screen doesn't display the correct output or looks grainy/noisy, "
+"then you will have to **ssh into it and enter this command**:"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:35
+msgid "BIOS Update Information"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:37
+msgid "<https://universal-blue.discourse.group/docs?topic=3064>"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:39
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:26
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:58
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:42
+msgid "External Resource"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:41
+msgid ""
+"For more information, check out the [Legion Go Tips and Tricks guide]"
+"(https://github.com/aarron-lee/legion-go-tricks) which includes useful "
+"scripts for this handheld."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:45
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:62
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:50
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:64
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:48
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:28
+msgid "TDP Controls"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:47
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:64
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:52
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:66
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:50
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:30
+msgid "![TDP|690x431, 75%](../../img/TDP.jpg)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:49
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:66
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:54
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:68
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:52
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:32
+msgid "There are a few options for TDP Controls that work with Bazzite:"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:51
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:68
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:56
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:70
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:54
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:34
+msgid ""
+"The [HHD-overlay](https://github.com/hhd-dev/hhd/blob/master/readme.md) "
+"supports TDP controls."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:52
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:69
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:57
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:71
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:55
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:35
+msgid ""
+"Also has a desktop app that is pre-installed, look for the Handheld Daemon "
+"app in Desktop Mode."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:53
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:70
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:58
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:72
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:56
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:36
+msgid ""
+"[SimpleDeckyTDP](https://github.com/aarron-lee/SimpleDeckyTDP) supports TDP, "
+"GPU, Power Governor, and among other settings."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:54
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:71
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:59
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:73
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:57
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:37
+msgid ""
+"Also has a [graphical application](https://github.com/aarron-lee/"
+"SimpleDeckyTDP-Desktop), but needs to be manually installed."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:55
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:72
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:60
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:74
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:58
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:38
+msgid ""
+"[PowerControl](https://github.com/mengmeet/PowerControl) supports TDP, GPU, "
+"and fan controls on select devices."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:57
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:74
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:62
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:76
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:60
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:40
+msgid "How do I open the HHD Overlay?"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:59
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:76
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:42
+msgid "![Overlay|690x431, 75%](../../img/Overlay.jpg)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:61
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:78
+msgid "![Legion HHD|690x431, 75%](../../img/legion_hhd.jpg)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:63
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:80
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:67
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:81
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:65
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:44
+msgid "Press, hold, or double-tap the Quick Access Menu button."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:65
+msgid "**Example**: <kbd>Legion R</kbd> for the Lenovo Legion Go."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:67
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:84
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:69
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:85
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:67
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:46
+msgid "Controller Information"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:69
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:86
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:71
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:87
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:69
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:48
+msgid ""
+"For most handheld hardware, besides the Steam Deck, emulation of a DualSense "
+"controller is used for full functionality. Double tap or hold the side menu "
+"button to access settings for controller emulation including switching to an "
+"Xbox controller with reduced functionality."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:71
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:88
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:71
+msgid ""
+"If your device has paddles, you will want to use the DualSense Edge "
+"controller. It’s disabled by default because some games do not map it "
+"correctly."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:73
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:90
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:75
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:91
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:73
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:52
+msgid ""
+"Some games and emulators may need Steam Input **disabled** to work correctly "
+"with your controls."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:75
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:92
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:77
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:93
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:75
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:54
+msgid "Desktop Controls"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:77
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:94
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:79
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:95
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:77
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:56
+msgid ""
+"Desktop Mode Controller Layout: It may not exist by default if Steam doesn't "
+"setup your handheld controller properly. This can be fixed in Steam's "
+"controller settings."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:79
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:96
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:81
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:97
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:79
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:58
+msgid ""
+"![desktop_controls_step_1|588x500, 75%](../../img/desktop_controls_step_1."
+"png)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:81
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:98
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:83
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:99
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:81
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:60
+msgid ""
+"![desktop_controls_step_2|690x431, 75%](../../img/desktop_controls_step_2."
+"png)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:83
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:100
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:85
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:101
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:83
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:62
+msgid ""
+"![desktop_controls_step_3|690x431, 75%](../../img/desktop_controls_step_3."
+"jpg)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:85
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:102
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:87
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:103
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:85
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:64
+msgid "Make sure to **apply** the desktop controls when you select them."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:87
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:104
+msgid "Force reboot device to prevent drive corruption if Steam crashes"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:89
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:106
+msgid "**Note**: This is only for the ASUS ROG Ally and Lenovo Legion Go."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:91
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:108
+msgid ""
+"Hold down the \"**select**\" button on your device to force a reboot. This "
+"feature can be disabled in the overlay settings."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:95
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:112
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:91
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:107
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:89
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:68
+msgid "Contributing"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:97
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:114
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:93
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:109
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:91
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:70
+msgid ""
+"This page is a **wiki**, edit it to add any relevant information you may "
+"have regarding the handheld and your experience with Bazzite on it. Make "
+"sure to follow proper [documentation guidelines](https://universal-blue."
+"discourse.group/docs?topic=890) and [contributing guidelines](https://"
+"universal-blue.discourse.group/docs?topic=81) before adding any edits."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Lenovo_Legion_Go.md:101
+msgid "**\\<\\-- Back to [Handheld Wiki](./)**"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:1
+msgid "ASUS ROG Ally \\[x\\]"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:3
+msgid "![ally|603x500, 100%](../../img/ally.png)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:12
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:50
+msgid "Configure the HHD Overlay by opening it with the QAM button"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:13
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:51
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:14
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:36
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:13
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:44
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:19
+msgid ""
+"Virtual keyboard is Steam's keyboard, but needs to be setup in Steam's "
+"settings in Desktop Mode (See \"Desktop Controls\" section below)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:14
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:52
+msgid ""
+"There is **no default keybinding for Steam's on-screen keyboard**(Remap it "
+"to <kbd>**X**</kbd> or whatever you prefer)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:15
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:53
+msgid ""
+"Holding the Armoury Crate button (on the side) allows you to switch to Mouse "
+"Mode"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:22
+msgid ""
+"[Status of CPU Boost on Bazzite](https://github.com/aarron-lee/"
+"SimpleDeckyTDP/blob/main/README.md#are-there-cpu-boost-controls)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:23
+msgid "Disable CPU boost to avoid excess power usage and other issues."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:24
+msgid "Changing A/C power sometimes leads to a stuck TDP."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:25
+msgid ""
+"LED is on max brightness by default and cannot be changed on any other "
+"operating system outside of Windows."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:26
+msgid "This is tied to the firmware."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:27
+msgid "This also affects when the ally is charging."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:28
+msgid "The Ally does **not support** button holding."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:29
+msgid "Steam Input's chords do not work by default."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:30
+msgid "Swapping the Start/Select button(s) is a workaround."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:31
+msgid "Suspend can break if SMT is disabled"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:32
+msgid ""
+"Current issues with the Ally's BIOS may cause may cause the Ally to be stuck "
+"at 10w TDP, and won't be able to change after suspending."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:33
+msgid ""
+"This does not occur using SimpleDeckyTDP with [Ryzenadj](https://github.com/"
+"FlyGoat/RyzenAdj)."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:34
+msgid "VRR may limit the FPS to 70."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:35
+msgid ""
+"Fix this by enabling \"Force Composite\" in Steam Gaming Mode under "
+"\"Developer\" settings."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:36
+msgid "Developer Mode must be turned on first."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:37
+msgid ""
+"Rainbow RGB on the original ROG Ally that can affect Windows even after "
+"Bazzite is remove"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:39
+msgid "ASUS ROG Ally X \\[x\\]"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:41
+msgid "![ROG Ally X|690x255](../../img/ROG_Ally_X.jpg)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:58
+msgid ""
+"This hardware requires additional testing and reports, but refer to the "
+"original ASUS ROG Ally section since the issues may be similar."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/ASUS_ROG_Ally.md:82
+msgid "**Note**: ASUS ROG Ally does not support **holding**!"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:1
+msgid "Ayn Loki Max \\[x\\]"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:3
+msgid "![Loki Max|375x500, 100%](../../img/Loki_Max.jpg)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:12
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:34
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:12
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:43
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:18
+msgid "Configure the HHD Overlay by opening it with QAM button"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:19
+msgid ""
+"Manually change the resolution per game in the `Steam Settings > Properties "
+"> Game Resolution` to either \"Native\" or other higher resolutions."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:20
+msgid "Back buttons are hard mapped to L3 and R3."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:21
+msgid "This is also an issue on Windows."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:23
+msgid "Ayn Loki Mini Pro"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:25
+msgid "![loki_mini_pro|666x500, 100%](../../img/loki_mini_pro.jpg)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:27
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:5
+msgid "**Status**: Silver"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:42
+msgid "Audio driver does not currently work."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:43
+msgid "No internal audio in either Gaming Mode or Desktop Mode."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:44
+msgid "External audio is reported to have low sound quality."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:45
+msgid "Rotation is wrong in Desktop Mode for KDE images."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:46
+msgid "Mouse input may break in Desktop Mode."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:64
+msgid ""
+"![Overlay|690x431, 75%](../../img/Overlay.jpg) ![RGB|690x431, 75%](../../img/"
+"RGB.jpg)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayn_Handhelds.md:73
+msgid ""
+"If your device has paddles, you will want to use the DualSense Edge "
+"controller (**excluding the Ayn Loki**). It’s disabled by default because "
+"some games do not map it correctly."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:1
+msgid "GPD Win 4 \\[x\\]"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:3
+msgid "![gpdwin4|690x328, 100%](../../img/gpdwin4.jpg)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:14
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:46
+msgid "<kbd>Xbox</kbd> + <kbd>X</kbd> (This can be remapped)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:15
+msgid ""
+"GPD devices also have a physical switch you can toggle to enable a separate "
+"desktop/mouse mode."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:21
+msgid ""
+"Fix controls and gyro after suspend-resume cycles (confirmed to work on both "
+"the 7840u and 6800u variants)."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:22
+msgid ""
+"Run these [commands](https://github.com/aarron-lee/gpd-win-tricks/blob/"
+"df0cb72ee11cfd0ba30c8bcffe0e395b99b713d3/win4-gyro-suspend-fix/README.md) in "
+"a host terminal."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:23
+msgid "Back buttons may need to be manually remapped before they are usable."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:24
+msgid ""
+"Watch this [video guide](https://www.youtube.com/watch?v=lnNfMY9kzjk) for a "
+"visual guide."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:28
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:60
+msgid ""
+"For more information, check out the [GPD Win Tips and Tricks guide](https://"
+"github.com/aarron-lee/gpd-win-tricks) which includes useful scripts for this "
+"handheld."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:32
+msgid "GPD Win Max 2 \\[x\\]"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:34
+msgid ""
+"![placeholder_gpdwinmax2|407x312, 100%](../../img/placeholder_gpdwinmax2.png)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:47
+msgid ""
+"GPD devices also have a physical switch you can toggle to enable a separate "
+"desktop/mouse mode"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:48
+msgid ""
+"Steam Gaming Mode **Display** settings that are recommended to be changed:"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:49
+msgid "`Use Native Color Temperature` - Enabled"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:53
+msgid "Games can sometimes default to 800p resolution"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:55
+msgid "gyro is non-functional"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:56
+msgid ""
+"back buttons may need to be manually remapped before they are usable, see "
+"[video guide](https://www.youtube.com/watch?v=lnNfMY9kzjk)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:78
+msgid ""
+"![Overlay|690x431, 75%](../../img/Overlay.jpg) ![Emulation Mode|690x434, 75%]"
+"(../../img/Emulation_Mode.jpg)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:83
+msgid "**Note**: GPD devices do not support double-tapping!"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/GPD_Handhelds.md:89
+msgid ""
+"If your device has paddles, you will want to use the DualSense Edge "
+"controller. It's disabled by default because some games do not map it "
+"correctly."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:1
+msgid "Ayaneo Geek 1S"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:3
+msgid ""
+"![photo_5875160389711413569_y|663x500, 100%](../../img/ayaneo_geek_s1.jpg)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:7
+msgid "**You will need this command for functional HHD**:"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:20
+msgid ""
+"HHD's support of both LEDs and Gyroscope is fine out of the box (with bmi260 "
+"from \\[ublue-os/akmod\\]."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:24
+msgid ""
+"Screen rotation is fixed with `rpm-ostree kargs --append-if-"
+"missing=video=eDP-1:panel_orientation=right_side_up` or editing the kernel "
+"command line with `rpm-ostree kargs --editor`."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:25
+msgid "Audio driver does work but needs to adjusted to support the 3.5mm jack."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:26
+msgid ""
+"Either install [this rpm package](https://drive.google.com/drive/"
+"folders/1ShnESXQ1aFQjbe0mVW5b6VBrfrgDA2O6?usp=sharing) that was created "
+"using [this guide](https://www.reddit.com/r/Fedora/comments/wir3cq/"
+"guide_adding_custom_files_to_the_root_filesystem/)."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:27
+msgid ""
+"Alternatively, since ALC269VB is an audio chipset that has been around for "
+"years, it just need its pins to be rerouted with `hdajackretask` (part of "
+"fedora's alsa-tools) package. (You basically need to reroute the auto-"
+"generated \"green headset\" and \"black headset\" devices to \"Channel 30 & "
+"31\")."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:28
+msgid "External audio works over both HDMI and eGPU."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:29
+msgid "**Suspend does not work**!"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:30
+msgid ""
+"The screen stays up and the fans spins, the device only supports S2IDLE and "
+"needs to be investigated more with [this tool](https://gitlab.freedesktop."
+"org/drm/amd/-/blob/master/scripts/amd_s2idle.py)."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:31
+msgid ""
+"VRAM size option is missing from BIOS as it's controlled by AYASPACE "
+"application under windows."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:33
+msgid "External Graphics:"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:35
+msgid ""
+"eGPU Thunderbolt 3/4 over USB4 is supported. USB4 enclosure needs proper "
+"testing but there is no reason to suspect it should not work."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:36
+msgid "**AMD**:"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:37
+msgid ""
+"Automatic switch at boot with [all-ways-egpu](https://github.com/ewagner12/"
+"all-ways-egpu/tree/main) works fine using method 2 and 3 at boot, "
+"unfortunately method 1 is not supported but seems to be related to Steam "
+"Gaming Mode."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:38
+msgid ""
+"The script needs to be installed with [Steam Deck/User Installation](https://"
+"github.com/ewagner12/all-ways-egpu/tree/main?tab=readme-ov-file#steam-"
+"deckuser-installation)."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:39
+msgid ""
+"In order to boot with eGPU attached you need to add a kernel parameter, "
+"seems to be related to [this kernel issue](https://lore.kernel.org/"
+"lkml/20240415163056.GP223006@ziepe.ca/). There are many other issues opened "
+"and according to [this](https://gitlab.freedesktop.org/drm/amd/-/"
+"issues/3182) it could be potentially fixed in kernel 6.9. As a temporary "
+"solution booting with eGPU connected works when launching the command `rpm-"
+"ostree kargs --append-if-missing=video=pci=nommconf` or editing the kernel "
+"command line with `rpm-ostree kargs --editor`."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:40
+msgid "**NVIDIA**: currently untested and probably doesn't work."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:44
+msgid ""
+"Check out the [original thread](https://universal-blue.discourse.group/t/"
+"ayaneo-geek-1s-2s-linux-bazzite-support-is-already-almost-there-lets-add-"
+"them-to-the-officially-supported-devices/1046) for more information and "
+"updates on this device."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md:62
+msgid ""
+"![Overlay|690x431, 75%](../../img/Overlay.jpg) ![Settings Example|690x432, "
+"75%](../../img/Settings_Example.jpg)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:3
+msgid "![generic handheld|348x158, 100%](../../img/generic_handheld.jpeg)"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:5
+msgid ""
+"Certain handhelds have been confirmed to boot Bazzite, but are plagued by "
+"missing driver support for Linux including missing audio drivers."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:7
+msgid ""
+"Unsupported handhelds _could work_ with Bazzite and the \"**Other "
+"Handhelds**\" section should cover unsupported handhelds, but there may be "
+"major issues encountered that are undocumented. If your handheld hardware is "
+"not listed, then you can still give Bazzite a try with our Handheld/HTPC "
+"image."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:9
+msgid ""
+"Your mileage may vary with untested hardware. Bazzite does **not** have the "
+"required setup for unsupported handheld, so setup will be manually done by "
+"the end user with unsupported handhelds."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:11
+msgid "**Commands for functional HHD**: **Test HHD**:"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:18
+msgid "If the test is successful:"
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:24
+msgid "**Note**: Replace `yourusername` with your Bazzite username."
+msgstr ""
+
+#: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:50
+msgid ""
+"If your device has paddles, you will want to use the DualSense Edge "
+"controller (**except for a few like the Ayn Loki**). It’s disabled by "
+"default because some games do not map it correctly."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:1
+msgid "nicknamenamenick | 2024-07-31 15:11:34 UTC | #1"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:3
+msgid "Linux Package Formats"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:5
+msgid "**Package formats ranked from most recommended for daily usage**:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:7
+msgid ""
+"_(Click the name of each package format for more information on how to use "
+"it on Bazzite.)_"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:9
+msgid ""
+"[Flatpak](Flatpak.md) - Universal package format using a permissions-based "
+"model; use for most graphical applications."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:10
+msgid ""
+"[`ujust`](ujust.md) - Custom scripts that can install applications "
+"maintained by Bazzite & Universal Blue"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:11
+msgid ""
+"[Homebrew](Homebrew.md) - Install applications intended to run inside of the "
+"terminal."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:12
+msgid ""
+"[Distrobox](Distrobox.md) - Intended for legacy applications that do not "
+"support Flatpak and Homebrew, or for use as development boxes."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:13
+msgid ""
+"[AppImage](AppImage.md) - Portable universal package format that relies on "
+"specific host libraries at a system-level."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:14
+msgid ""
+"[`rpm-ostree`](rpm-ostree.md) - Layer Fedora packages at a system-level "
+"(**not recommended, use as a last resort**)!"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:16
+msgid "How do I run Windows applications?"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:18
+msgid "**Use a [WINE](https://www.winehq.org/) front-end**:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:20
+msgid ""
+"_(Click the name of each WINE front-end to be taken to the project's "
+"website.)_"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:22
+msgid ""
+"[Steam](https://store.steampowered.com/) (_pre-installed_) has a Windows "
+"compatibility layer built-in."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:23
+msgid ""
+"Read the [Gaming Guide](https://universal-blue.discourse.group/docs?"
+"topic=31) for more information on setting up and using Proton."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:24
+msgid ""
+"[Lutris](https://lutris.net/about) (_pre-installed_) for non-Steam video "
+"games."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:25
+msgid ""
+"[Heroic](https://heroicgameslauncher.com/) for Epic Games, GOG, and Amazon "
+"Games integration."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:26
+msgid ""
+"[Bottles](https://usebottles.com/) for general-purpose applications or as an "
+"alternative to Lutris."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:27
+msgid "[itch](https://flathub.org/apps/io.itch.itch) for games on itch.io."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:28
+msgid "Also comes pre-installed with a Windows compatibility layer."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:29
+msgid ""
+"[WineZGUI](https://github.com/fastrizwaan/WineZGUI) (_pre-installed_) for "
+"Windows applications that don’t require special considerations for their "
+"prefix."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:31
+msgid "How do I install Android applications?"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:33
+msgid ""
+"Follow the [Waydroid Setup Guide](Waydroid_Setup_Guide.md) to install "
+"Android applications on Bazzite."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:35
+msgid ""
+"**Note**: Waydroid is **not supported** on other Universal Blue images like "
+"Aurora and Bluefin."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:39
+msgid ""
+"[Plex Media Server](https://universal-blue.discourse.group/t/video-tutorial-"
+"how-to-install-plex-media-server-using-distrobox-on-bazzite/1999) (**Note**: "
+"Podman or Docker is recommended over Distrobox)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:40
+msgid ""
+"[Flash Games](https://universal-blue.discourse.group/t/how-to-run-old-"
+"browser-games-with-web-apps/486)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:44
+msgid "Video Showcase of Installing Software"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:46
+msgid "**Note**: This video is missing Homebrew."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:48
+msgid "<https://www.youtube.com/watch?v=ITuT23YrgPs>"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/index.md:54
+msgid ""
+"**See also**: [Updates, Rollbacks, & Rebasing](Updates_Rollbacks_&_Rebasing."
+"md)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:1
+msgid "What is Flatpak?"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:3
+msgid "![Flatpak|100x100, 100%](../img/flatpak.png)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:5
+msgid ""
+"Flatpak is a universal containerized package format that tries to sandbox "
+"applications through flexible permissions that the application has access to "
+"on your system."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:7
+msgid ""
+"Flatpak is the **primary method of installing applications on Bazzite** and "
+"is recommended to use Flatpak over other formats for most software when "
+"possible."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:9
+msgid "Installing Flatpaks"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:11
+msgid ""
+"Flatpaks can be installed via the software center of the desktop environment "
+"you chose."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:13
+msgid "**KDE**: _Discover_ ![Discover|50x50, 50%\\]"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:14
+msgid ""
+"**GNOME**: _GNOME Software_ ![GNOME Software|50x50, 50%\\] ![Discover|"
+"659x500, 100%](../img/Discover.png) ![GNOME Software Center](../img/"
+"GNOME_Software_Center.png)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:18
+msgid "**Alternatively open a host terminal and enter**:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:24
+msgid "Flatpak Remotes"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:26
+msgid ""
+"Flatpaks can be hosted anywhere, but by default Bazzite ships with the "
+"[Flathub](https://flathub.org/) remote which is a centralized repository of "
+"Linux applications."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:28
+msgid ""
+"The Flathub App Store is the definitive Linux app store and several Linux "
+"operating systems like SteamOS and Linux Mint ship with full support for it."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:30
+msgid "System & User Flathub Remotes"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:32
+msgid ""
+"Flathub has different remotes, Bazzite enables both \"**system**\" and "
+"\"**user**\" Flathub by default. Bazzite pre-installs default applications "
+"with the system remote, and is mainly intended for multi-user systems. Some "
+"applications may require the system remote however."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:34
+msgid ""
+"Read more about system versus user Flathub remotes in the [upstream "
+"documentation](https://docs.flathub.org/docs/for-users/user-vs-system-"
+"install/)."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:36
+msgid "Manage Flatpaks"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:38
+msgid ""
+"Manage Flatpaks with [Flatseal](https://github.com/tchx84/Flatseal) and "
+"[Warehouse](https://github.com/flattool/warehouse) which are both pre-"
+"installed."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:40
+msgid "Flatseal"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:42
+msgid "![Flatseal|690x376](../img/Flatseal.png)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:44
+msgid ""
+"**Flatseal** is for changing [application permissions](https://github.com/"
+"tchx84/Flatseal/blob/92e675e5ad2129f2aabf324261570eef442494f6/DOCUMENTATION."
+"md) if necessary."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:46
+msgid ""
+"Alternatively, use KDE Plasma's system settings has application permissions "
+"to adjust as well on KDE Plasma images."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:48
+msgid "Warehouse"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:50
+msgid "![Warehouse|690x376](../img/Warehouse.png)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:52
+msgid ""
+"**Warehouse** is a utility that gives users a graphical interface to "
+"downgrade applications, add other Flatpak sources outside of Flathub, and "
+"backup application user data. Its also a helpful tool for installing "
+"Flatpaks outside of Flathub, **at your own risk**."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:54
+#: src/Installing_and_Managing_Software/ujust.md:81
+#: src/Installing_and_Managing_Software/Homebrew.md:17
+#: src/Installing_and_Managing_Software/Distrobox.md:86
+#: src/Installing_and_Managing_Software/AppImage.md:15
+#: src/Installing_and_Managing_Software/rpm-ostree.md:94
+msgid "Project Website"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:56
+msgid "<https://www.flatpak.org/>"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Flatpak.md:60
+#: src/Installing_and_Managing_Software/ujust.md:89
+#: src/Installing_and_Managing_Software/Distrobox.md:92
+#: src/Installing_and_Managing_Software/AppImage.md:21
+msgid ""
+"[**\\<\\-- Back to Installing and Managing Software on Bazzite**](index.md)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:1
+msgid "nicknamenamenick | 2024-07-26 13:41:48 UTC | #1"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:3
+msgid "What is `ujust`?"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:5
+msgid "![Shell Scripts (.sh)|96x96, 100%](../img/Shell_Scripts_.sh.png)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:7
+msgid ""
+"Technically `ujust` is **not** a package format, but are convenience "
+"commands that automate tasks using scripts which can be utilized to install "
+"specific software. There are also commands for system configuration and "
+"maintenance too included here, so run `ujust` commands **at your own risk.**"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:9
+msgid "Using `ujust`"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:13
+msgid "![ujust command list|690x411](../img/ujust_command_list.png)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:19
+msgid "This will output a list of available commands."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:21
+msgid "![ujust TUI|690x403](../img/ujust_TUI.png)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:27
+msgid ""
+"This will show a terminal user interface of `ujust` commands that you can "
+"choose to execute with arrow keys or mouse input."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:29
+msgid ""
+"**Note**: Commands that require values or flags do not function with this "
+"method."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:31
+msgid "Manually Entering Commands"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:33
+msgid "**Find the command you want to use and enter**:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:39
+msgid "You can search for specific commands by **entering**:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:41
+msgid ""
+"```\n"
+"ujust | grep \"<search keyword(s)>\"\n"
+"```"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:45
+msgid ""
+"`install-`: Install program, there is no configuration or uninstall commands "
+"at this time"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:46
+msgid ""
+"`get-`: Install an \"extension\" like Decky plugins, and if it is an "
+"extension then it can use `get-` too"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:47
+msgid ""
+"`setup-`: Install program, provides uninstall and configuration options for "
+"after install"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:48
+msgid "`configure-`: Configure something that came by default on the image"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:49
+msgid "If it must be installed first, then it will be in `setup-`"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:50
+msgid "`toggle-`: Turns something on/off"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:51
+msgid "Selection might be automatic or manual depending on implementation"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:52
+msgid "`fix-`: Fixes, patches or works around an issue"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:53
+msgid "`distrobox-`: Distrobox exclusive verb for useful Distrobox stuff"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:54
+msgid "`foo`: Replace this with whatever the command is called"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:55
+msgid "These are shortcuts that we have deemed necessary to not have a verb"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:56
+msgid "**Examples**: `ujust update` and `ujust enroll-secureboot-key`"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:58
+msgid "View each `ujust` script's source code"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:60
+msgid ""
+"If you would like to see what each script does for each command then open a "
+"host terminal and **enter**:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:66
+msgid ""
+"Alternatively, you can find the `ujust` commands locally in: `/usr/share/"
+"ublue-os/just`"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:69
+msgid "This directory also shows **hidden** `ujust` commands."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:71
+msgid "Uninstalling Applications Installed Through `ujust`"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:73
+msgid ""
+"Most applications installed via a `ujust` script would have to be "
+"uninstalled manually. Follow the instructions found on the project's website "
+"or repository online to uninstall it properly."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:75
+msgid ""
+"This **command** Shows layered packages that may be installed from the "
+"Bazzite Portal / `ujust`:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:83
+msgid "https://just.systems/"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/ujust.md:87
+msgid "**See also**: https://universal-blue.discourse.group/docs?topic=42"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Homebrew.md:1
+msgid "nicknamenamenick | 2024-07-11 01:35:44 UTC | #1"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Homebrew.md:3
+msgid "What is Homebrew?"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Homebrew.md:5
+msgid "![Homebrew|332x500, 15%](../img/Homebrew.png)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Homebrew.md:7
+msgid ""
+"**Note**: Any package that requires root privileges will either need a "
+"rootful Distrobox container or has to be layered with `rpm-ostree`."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Homebrew.md:9
+msgid ""
+"Homebrew is a package manager that installs packages to their own prefix, "
+"and is used strictly for command-line interface (CLI) and terminal user "
+"interface (TUI) applications."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Homebrew.md:11
+msgid "Install packages in a host terminal with this **command**:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Homebrew.md:19
+msgid "<https://brew.sh/>"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Homebrew.md:23
+msgid "[ **← Back to Installing and Managing Software on Bazzite**](index.md)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:1
+msgid "nicknamenamenick | 2024-07-30 18:44:26 UTC | #1"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:3
+msgid "What is Distrobox?"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:5
+msgid "![distrobox|310x113, 50%](../img/distrobox.png)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:7
+msgid ""
+"Run other minimal variants of popular Linux distributions in Bazzite inside "
+"of a container, and access each distribution's packages without any of their "
+"dependencies and libraries affecting the host machine."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:9
+msgid "**Important Notes**:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:11
+msgid "Containers are **not** virtual machines."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:12
+msgid ""
+"Containers are intended to be **disposable** and may run into issues where "
+"they need to be recreated."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:13
+msgid ""
+"Using this method to obtain software **requires knowledge of how traditional "
+"Linux operating systems install packages**."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:14
+msgid ""
+"Create a test container to familiarize yourself with basic Linux commands "
+"before diving in further."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:16
+msgid ""
+"Distrobox containers run sub-systems of other popular [Linux distributions]"
+"(https://distrobox.it/compatibility/#containers-distros) with access to "
+"their package managers (`apt`, `dnf`, `pacman`, etc.) and their package "
+"formats (`.deb`/`.rpm`) and any additional repositories like the [AUR]"
+"(https://aur.archlinux.org/)."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:18
+msgid "![i use arch btw|690x229, 75%](../img/iusearchbtw.png)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:20
+msgid "**Linux Distribution Examples**:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:21
+msgid "OS"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:21
+msgid "Package Manager"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:21
+msgid "Search for Packages"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:23
+msgid "[Fedora](https://fedoraproject.org/)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:23
+msgid "[`dnf`](https://docs.fedoraproject.org/en-US/quick-docs/dnf/)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:23
+msgid ""
+"[Fedora Packages](https://packages.fedoraproject.org/index-static.html) / "
+"[COPR Packages](https://copr.fedorainfracloud.org/)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:24
+msgid "[Arch Linux](https://archlinux.org/)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:24
+msgid "[`pacman`](https://wiki.archlinux.org/title/Pacman)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:24
+msgid ""
+"[Arch Linux Packages](https://archlinux.org/packages/) / [AUR Packages]"
+"(https://aur.archlinux.org/)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:25
+msgid "[Debian](https://www.debian.org/) / [Ubuntu](https://ubuntu.com/)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:25
+msgid "[`apt`](https://ubuntu.com/server/docs/package-management)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:25
+msgid ""
+"[Debian Packages](https://packages.debian.org/stable/) / [Ubuntu Packages]"
+"(https://packages.ubuntu.com/) ([PPA](https://launchpad.net/ubuntu/+ppas))"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:26
+msgid "[openSUSE](https://get.opensuse.org/)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:26
+msgid ""
+"[`zypper`](https://documentation.suse.com/smart/systems-management/html/"
+"concept-zypper/index.html)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:26
+msgid "[openSUSE Packages](https://search.opensuse.org/packages/)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:27
+msgid "[Void Linux](https://voidlinux.org/)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:27
+msgid "[`xbps`](https://docs.voidlinux.org/xbps/index.html)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:27
+msgid "[Void Linux Packages](https://voidlinux.org/packages/)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:28
+msgid "[Alpine Linux](https://www.alpinelinux.org/)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:28
+msgid "[`apk`](https://wiki.alpinelinux.org/wiki/Alpine_Package_Keeper)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:28
+msgid "[Alpine Linux Packages](https://pkgs.alpinelinux.org/packages)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:30
+msgid "Use Cases"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:32
+msgid ""
+"Distrobox containers can be used for both **development environments** and "
+"**installing applications that are not available in any of the other "
+"installation methods** which can be exclusive to specific package managers."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:34
+msgid "Distrobox Graphical Interface"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:36
+msgid "![BoxBuddy|690x382, 75%](../img/BoxBuddy.png)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:38
+msgid ""
+"Distrobox containers can be created and managed graphically with [BoxBuddy]"
+"(https://github.com/Dvlv/BoxBuddyRS) which is pre-installed."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:40
+msgid "Desktop Integration"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:42
+msgid ""
+"Applications with a graphical user interface can integrate with your system "
+"with an application shortcut **entering this command inside of the "
+"container**:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:48
+msgid ""
+"Read our [Ptyxis documentation](https://universal-blue.discourse.group/docs?"
+"topic=300) on how containers integrate with your system."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:50
+msgid "Manually Create Pre-Configured Distrobox Containers"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:56
+msgid "Select the container that you want to use."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:58
+msgid ""
+"**Advanced users**: Declare your own custom Distrobox containers following "
+"the [`distrobox-assemble` documentation](https://distrobox.it/usage/"
+"distrobox-assemble/)."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:60
+msgid "Entering The Container"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:62
+msgid ""
+"Swap between different containers in your host with the terminal or "
+"alternatively **enter**:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:68
+msgid "Removing Distrobox Containers"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:70
+msgid "Delete containers graphically with BoxBuddy."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:72
+msgid "Alternatively, use the command line:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:82
+msgid "Distrobox Video Guide"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:84
+msgid "<https://youtu.be/5m0YfIiypwA>"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Distrobox.md:88
+msgid "<https://distrobox.it/>"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/AppImage.md:3
+msgid "![AppImage|100x100, 100%](../img/AppImage.png)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/AppImage.md:5
+msgid ""
+"**Note**: AppImages may not be supported if rebasing to other Fedora Atomic "
+"Desktop images."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/AppImage.md:7
+msgid ""
+"AppImage is a universal package format that attempts to bundle every "
+"dependency that an application needs into one portable file. They can be "
+"installed by downloading any file with a `.AppImage` extension and then "
+"giving it executable permissions in the file's properties so the application "
+"can run properly. Like Windows executable files, they are usually found on "
+"the project's website to download."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/AppImage.md:9
+msgid "Gear Lever"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/AppImage.md:11
+msgid "![Gear Lever|500x500](../img/Gear_Lever.png)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/AppImage.md:13
+msgid ""
+"Applications installed as an AppImage can integrate with your desktop and be "
+"managed with [Gear Lever](https://github.com/mijorus/gearlever) which is pre-"
+"installed on Bazzite."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/AppImage.md:17
+msgid "<https://appimage.org/>"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:1
+msgid "nicknamenamenick | 2024-07-03 15:11:34 UTC | #1"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:3
+msgid "![rpm-ostree|500x500, 30%](../img/rpm-ostree.png)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:5
+msgid "`rpm-ostree` Overview"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:7
+msgid "**Notice**: Using `rpm-ostree` irresponsibly can be **destructive**."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:9
+msgid ""
+"**Attention**: Layering packages may prevent updates and **may cause several "
+"issues until the layered packages are uninstalled**."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:11
+msgid "Install Fedora Linux packages by installing them with `rpm-ostree`."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:13
+msgid "This is known as \"layering packages\" to the image."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:14
+msgid ""
+"Layering packages will **require** a system reboot when it finishes creating "
+"the new deployment with the package(s) added to your image."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:15
+msgid ""
+"Use this method as a **last resort** and for anything at a \"system-level\" "
+"only."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:17
+msgid "Common `rpm-ostree` Terminal Commands:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:23
+msgid "Installs Fedora package(s) to the system that stay between updates."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:29
+msgid "Uninstalls any layered packages added to the system."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:35
+msgid "Search for Fedora packages that can be installed."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:37
+msgid "RPM packages installed on the host"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:39
+msgid ""
+"Fedora containers should be used for most RPM files, but sometimes they need "
+"to be installed to your host."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:41
+msgid ""
+"You can install RPM files **to your host** with `rpm-ostree` by entering:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:47
+msgid ""
+"You may need to copy the full path (`/path/to/rpmfile.rpm`) for it to "
+"install properly."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:49
+msgid ""
+"**Note**: The downside of installing local RPM files outside of the Fedora "
+"repositories is updates for the specific RPM package will not apply "
+"automatically."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:51
+msgid ""
+"How do I install [COPR](https://copr.fedorainfracloud.org) repositories?"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:53
+msgid ""
+"**Note**: It is highly advised to **not** use third-party COPR repos if you "
+"can, but if you do realize there are risks associated with it."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:55
+msgid "Download the .repo file and save it to `/etc/yum.repos.d/`"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:57
+msgid "Then install the package with `rpm-ostree`"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:59
+#: src/Advanced/Reset_User_Password.md:43
+msgid "Reboot"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:61
+msgid ""
+"If you experience issues updating your system due to GPG signature issues, "
+"then this can be fixed by either removing the COPR repository, or editing "
+"the file by changing `gpgcheck=1` to `gpgcheck=0` (or similar) and saving it "
+"**at your own risk**."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:63
+msgid ""
+"There is also an experimental `copr` utility script that ships with Bazzite. "
+"Run `copr --help` in the terminal for to see usage documentation, and the "
+"source code for the helper script can be found [here](https://github.com/"
+"ublue-os/COPR-command)."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:65
+msgid "**MAJOR** caveats using `rpm-ostree`"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:67
+msgid ""
+"Layering packages are mostly intended for system-level applications, "
+"libraries, and other dependencies. It is recommend by upstream to use all of "
+"the methods above **before** installing software with `rpm-ostree`. Typical "
+"users should **not** be using `rpm-ostree` to install end-user graphical "
+"applications."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:69
+msgid "Layering packages can cause **severe consequences** including:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:71
+msgid "Break upgrades or prevent rebasing."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:72
+msgid ""
+"Conflict with existing packages as part of the image leading to dependency "
+"issues."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:73
+msgid ""
+"Updates will take longer to download as you layer more packages to your "
+"system."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:74
+msgid ""
+"Eventually package layering will be removed later in the future for Fedora "
+"Atomic Desktop and is only used currently as a crutch for the current "
+"software ecosystem on desktop Linux."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:76
+msgid ""
+"It is **highly recommended** to only use this command when absolutely "
+"necessary especially if the application can be obtained through other "
+"methods."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:78
+msgid "How to remove **ALL** Layered Packages"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:80
+msgid ""
+"If you run into issues upgrading due to a layered package conflict, then "
+"either optionally uninstall the conflicted package(s) or remove all layered "
+"packages with this **command**:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:86
+msgid "Image Information"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:88
+msgid ""
+"See information about image build date, update channel, layered packages, "
+"etc. by **entering this command in a host terminal**:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:96
+msgid "<https://coreos.github.io/rpm-ostree/>"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:100
+msgid ""
+"**See also**: [Using rpm-ostree](https://universal-blue.discourse.group/docs?"
+"topic=513)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/rpm-ostree.md:102
+msgid ""
+"[**\\<\\-- Back to Installing and Managing Software on Bazzite**](./index.md)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:1
+msgid "nicknamenamenick | 2024-07-26 23:57:00 UTC | #1"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:3
+msgid "![Waydroid](../img/Waydroid.jpg)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:5
+msgid "![Google Play Store|650x500](../img/Google_Play_Store.jpg)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:7
+msgid ""
+"**Note**: Waydroid does **not** work on Nvidia's proprietary drivers, and "
+"requires an AMD or Intel GPU for the best results."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:9
+msgid "What is Waydroid?"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:11
+msgid ""
+"[Waydroid](https://waydro.id/) is an Android container that runs on Linux. "
+"Bazzite users can run Android applications using this method."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:13
+msgid "First Time Setup"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:15
+msgid "Open a host terminal and **enter this command to setup Waydroid**:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:21
+msgid "Initialize Waydroid"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:23
+msgid ""
+"Waydroid requires users to initialize it for the first time which can be "
+"done by selecting: `Initialize Waydroid`"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:26
+msgid "Make sure this worked by entering this **command**:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:32
+msgid "This will launch Waydroid for the first time."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:34
+msgid "Configure Waydroid"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:36
+msgid "Part 1: Stop Waydroid Session"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:38
+msgid "Waydroid needs to stop running to configure properly."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:40
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:48
+msgid "Open a host terminal and enter this **command**:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:46
+msgid "Part 2: Configuration"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:54
+msgid ""
+"Selecting `Configure Waydroid` will allow users to install additional "
+"Android tweaks with the [Waydroid Extras Scripts.](https://github.com/"
+"casualsnek/waydroid_script#waydroid-extras-script)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:56
+msgid "Select Android Version (**_Android 11_ recommended**)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:57
+msgid ""
+"Select items to install a) [GApps](https://github.com/opengapps/opengapps/"
+"wiki/FAQ) (Default Android applications including the **Google Play Store)** "
+"or [microG](https://microg.org/) (Free alternatives to Google applications) "
+"b) ARM Translation (_libndk_ for **AMD CPUs only** & _libhoudini_ for "
+"**Intel CPUs only**) c) [Magisk](https://github.com/topjohnwu/Magisk) "
+"(Android power user suite) d) [Logitech Smartdock Support](https://support."
+"logi.com/hc/en-us/articles/360023201574-What-is-SmartDock) (Currently "
+"broken) e) [F-Droid Privileged Extension](https://f-droid.org/packages/org."
+"fdroid.fdroid.privileged/) (Proper [F-Droid](https://f-droid.org/en/"
+"packages/) support) f) [widevine](https://widevine.com/) (Support for video "
+"streaming DRM)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:65
+msgid "Get Google Device ID to Get Certified"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:67
+msgid "Launch Waydroid (**Waydroid must be running**)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:70
+msgid ""
+"After selecting your current Android version, select `Get Google Device ID "
+"to Get Certified` especially if you plan to use the Google Play Store "
+"(GApps)."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:72
+msgid "Follow the instructions in the terminal output."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:74
+msgid ""
+"After verification has happened, it will usually take a while before your "
+"device is verified."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:76
+msgid "Add as a Non-Steam Shortcut"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:78
+msgid ""
+"This is useful for [Bazzite images that use Steam Gaming Mode.](../"
+"Handheld_and_HTPC_edition/Steam_Gaming_Mode/index.md)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:80
+msgid ""
+"Make sure to add the shortcut in `/usr/bin/waydroid-launcher` for Waydroid "
+"to work properly in Steam Gaming Mode."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:84
+msgid "Disable Inputs to Waydroid When Unfocused"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:86
+msgid ""
+"Waydroid has an [issue](https://github.com/waydroid/waydroid/issues/135) "
+"where it will register inputs from controllers, keyboards, and other input "
+"devices even when the window is not focused."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:88
+msgid "Disable this functionality:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:90
+msgid "Note: **Waydroid must be running**!"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:92
+msgid "In a host terminal, **run this command**:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:98
+msgid ""
+"If you ever want to undo this change, run the same steps but set `true` "
+"instead of `false` with the same command."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:100
+msgid "Resolution & Density Options"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:102
+msgid ""
+"**Note**: This is intended for users who have issues with Waydroid's "
+"resolution, scaling, or running Waydroid nested. This is **optional**."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:114
+msgid "Save the text files when done."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:116
+msgid "Waydroid Hybrid Graphics Fix"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:118
+msgid ""
+"**Note**: This is only intended for users who have multiple GPUs in their "
+"hardware who experience graphical corruptions in Waydroid."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:120
+msgid "**Enter in a host terminal**:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:126
+msgid ""
+"Then `Select GPU for Waydroid` which will give the option on what GPU to "
+"utilize for Waydroid to fix graphical corruptions."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:130
+msgid "Reset Waydroid"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:132
+msgid "**Warning**: You will lose all of your Waydroid data."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:134
+msgid ""
+"If you experience issues or want a fresh Waydroid container, then select "
+"`Reset Waydroid` after **entering**:"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:142
+msgid ""
+"**Documentation Contributors**: [Kyle Gospo](https://github.com/KyleGospo), "
+"[Gecked-Deck](https://github.com/Gecked-Deck), [Nathaniel Warburton](https://"
+"github.com/storyaddict), and [Jorge Castro](https://github.com/castrojo)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:144
+msgid "**See also**: [Upstream documentation](https://docs.waydro.id/)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Waydroid_Setup_Guide.md:146
+msgid ""
+"\\<\\-- [**View all Bazzite documentation**](https://universal-blue."
+"discourse.group/docs?topic=561)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Updates_Rollbacks_&_Rebasing.md:1
+msgid ""
+"Click the link under \"**Full Documentation**\" for more information on each "
+"topic."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Updates_Rollbacks_&_Rebasing.md:3
+msgid "Updates"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Updates_Rollbacks_&_Rebasing.md:5
+msgid "![System Updates|200x200, 100%](../img/System_Updates.png)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Updates_Rollbacks_&_Rebasing.md:7
+msgid ""
+"Updates are automatic on Desktop images and manually done on Handheld/HTPC "
+"images, and both Bazzite variants upgrade everything at both a system-level "
+"and user-installed applications during the updating process."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Updates_Rollbacks_&_Rebasing.md:9
+msgid ""
+"**Full Documentation**: <https://universal-blue.discourse.group/docs?"
+"topic=2637>"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Updates_Rollbacks_&_Rebasing.md:12
+msgid "Rollbacks"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Updates_Rollbacks_&_Rebasing.md:14
+msgid "![GRUB Menu|690x402](../img/GRUB_Menu.png)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Updates_Rollbacks_&_Rebasing.md:16
+msgid ""
+"Swap back to a previous system update if there are major issues after "
+"updating via the GRUB menu or the `rpm-ostree rollback` command."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Updates_Rollbacks_&_Rebasing.md:18
+msgid ""
+"**Full Documentation**: <https://universal-blue.discourse.group/docs?"
+"topic=2644>"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Updates_Rollbacks_&_Rebasing.md:21
+msgid "Rebasing"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Updates_Rollbacks_&_Rebasing.md:23
+msgid "![Docker's OCI Icon|200x200, 100%](../img/Dockers_OCI_Icon.png)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Updates_Rollbacks_&_Rebasing.md:25
+msgid ""
+"Rebase to Bazzite builds from the last 90 days, change Bazzite update "
+"channels, swap between the Desktop and Handheld/HTPC images, or move "
+"completely to a different Fedora Atomic Desktop image."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Updates_Rollbacks_&_Rebasing.md:27
+msgid ""
+"**Important**: Do **not** rebase to a different desktop environment than the "
+"one you are currently using, please backup and reinstall instead."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Updates_Rollbacks_&_Rebasing.md:29
+msgid ""
+"**Full Documentation**: <https://universal-blue.discourse.group/docs?"
+"topic=2646>"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Updates_Rollbacks_&_Rebasing.md:32
+msgid "Rollback Helper"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Updates_Rollbacks_&_Rebasing.md:34
+msgid ""
+"![Bazzite Rollback Helper Command|636x500](../img/"
+"Bazzite_Rollback_Helper_Command.png)"
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Updates_Rollbacks_&_Rebasing.md:36
+msgid ""
+"Utility to assist with rolling back and rebasing to older Bazzite images."
+msgstr ""
+
+#: src/Installing_and_Managing_Software/Updates_Rollbacks_&_Rebasing.md:38
+msgid ""
+"**Full Documentation**: <https://universal-blue.discourse.group/docs?"
+"topic=2647>"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:3
+msgid "WARNING!"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:5
+msgid ""
+"**Attention**: You may lose data on the drive(s) or result in an unbootable "
+"system if configured improperly."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:7
+msgid ""
+"**Note:** MicroSD cards automatically mount without any manual intervention "
+"required on Bazzite."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:9
+msgid ""
+"**Important**: Do **not** use the NTFS, exFAT, or FAT32 filesystems for game "
+"library storage."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:11
+msgid ""
+"Follow this guide **at your own discretion** and make sure to read the "
+"entire document relevant to your method, so you do not miss anything!"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:17
+msgid "1. Formatting a disk"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:19
+msgid "**Warning**: This will wipe all existing data on it"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:21
+msgid "Note when formatting in **KDE Partition Manager**"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:23
+msgid "Make sure you set permissions to **everyone**."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:25
+msgid ""
+"Use a disk graphical user interface like KDE Plasma or GNOME Disks to format "
+"your drive. We recommend formatting secondary drives to **btrfs** or "
+"**ext4**."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:27
+msgid "Creating a secondary drive directory and where to mount drives?"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:29
+msgid ""
+"**Note**: Drive directories should be **lowercase** with **no spaces** for "
+"best practice."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:31
+msgid ""
+"**Attention**: `/var/mnt` should NOT be the path, but create a new "
+"**directory** in either `/var/mnt` or `/var/run/media/`."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:33
+msgid "`/var/mnt/...` for **permanent** drives"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:34
+msgid "`/var/run/media/...` for **removable** drives"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:36
+msgid ""
+"You can make a directory in `/var/mnt/` by opening a host terminal and "
+"**entering this command in a host terminal**:"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:46
+msgid "The drive will now be mounted in a directory known as `games`."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:48
+msgid ""
+"**Note**: `games` can be named anything you desire that fits best practices."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:50
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:211
+msgid "Permissions for the drive"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:56
+msgid ""
+"**Note**: If you plan to reformat the partition, remember to edit the mount "
+"point and \"Remove\" the mount path before you reformat! If not you will "
+"have to manually edit `/etc/fstab`."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:58
+msgid "2. Graphical User Interface (GUI) Methods for Auto-Mounting"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:60
+msgid ""
+"**Warning**: Do not set up auto-mount, unmount then format a drive! It can "
+"confuse the software you are configuring drives with. Instead, **remove the "
+"auto-mount first before formatting the drive**."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:62
+msgid "KDE Partition Manager"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:64
+msgid "![KDE|48x48](../img/kde_partition_manager_icon.png)"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:66
+msgid "**This is pre-installed on KDE images.**"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:68
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:155
+msgid "Instructions"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:70
+msgid ""
+"![KDE Partition Manager|690x462, 75%](../img/KDE_Partition_Manager.png) ![Do "
+"not check the boxes!|690x197](../img/Do_not_check_the_boxes!.png)"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:73
+msgid "Open KDE Partition Manager"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:74
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:160
+msgid "Locate the disk and partition you want to mount"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:75
+msgid "Right click on the partition and click \"Edit Mount Point\""
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:76
+msgid ""
+"Select \"Identify by: UUID\" (This will guarantee you mount THIS partition "
+"instead of a different one if the device nodes change for some reason)"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:77
+msgid ""
+"Select a mounting path: 5a. You would want to use `/var/mnt/games` or "
+"something similar for permanent mounts"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:79
+msgid ""
+"**Untick all the boxes in the graphical application if they are checked**"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:80
+msgid ""
+"Click \"More...\" and add extra options depending on what filesystem is on "
+"the partition (read the \"Filesystem Arguments\" section)"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:81
+msgid "Click OK on both windows to save the mount points."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:82
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:171
+msgid "Open the terminal to test the mounts by running the **command**:"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:88
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:177
+msgid "**If no errors appeared then it should be safe to reboot.**"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:90
+msgid ""
+"**Note**: If errors occur, then research the error and undo what you did and "
+"try again. Redo the previous two steps in the terminal (see CLI method down "
+"below and research how to use fstab) as KDE Partition Manager might not give "
+"a good error to search for if the test mount fails."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:92
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:181
+msgid ""
+"Display Name should be added too. Name it whatever you want it to be "
+"identified as."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:94
+msgid "Required additional options depending on **filesystem**"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:96
+msgid ""
+"Use the below generic options depending on your filesystem (these are just "
+"good defaults) You can copy+paste these into the \"More..\" dialog and they "
+"will be valid"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:99
+msgid "**Note**: \"Users can mount and unmount\" is an **optional** setting."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:101
+msgid "Filesystem arguments"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:103
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:185
+msgid ""
+"**Warning**: If a drive is formatted, then do not remove it from `/etc/"
+"fstab`, so the \"nofail\" option is a must to avoid issues with booting."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:105
+msgid "![btrfs example|290x317](../img/btrfs_example.png)"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:107
+msgid "**Example: btrfs requires these additional options.**"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:109
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:191
+msgid "**BTRFS**:"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:115
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:197
+msgid "**Ext4**:"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:121
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:203
+msgid "**NTFS**:"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:127
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:209
+msgid ""
+"**Note**: Do not use the NTFS filesystem for game library storage in "
+"Bazzite, and it is not supported and you will get lots of issues with it. "
+"NTFS is **not** intended as a game drive for Bazzite."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:129
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:217
+msgid "Advanced Options (Not required for most setups)"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:131
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:219
+msgid "Information about compression:"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:133
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:221
+msgid "**3** is a good balance, older CPUs should use **1**."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:135
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:223
+msgid "Information about subvolumes:"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:137
+msgid ""
+"use `subvol=name` as an option, KDE and GNOME Disks let you only mount 1 "
+"subvolume through the GUI, you can mount the root with `subvol=/` if a "
+"default subvolume is configured in the filesystem."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:139
+msgid "Installing KDE Partition Manager on non-KDE images"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:141
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:229
+msgid ""
+"If you would like to install this, then it can be layered to your system by "
+"entering in a terminal:"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:147
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:235
+msgid "Reboot your system after it has finished installing the terminal."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:149
+msgid "GNOME Disks"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:151
+msgid "![GNOME|120x120, 50%](../img/GNOME_Disks_icon.png)"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:153
+msgid "**This comes pre-installed on GNOME images.**"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:157
+msgid "![GNOME_Disks|690x463, 75%](../img/GNOME_Disks.png)"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:159
+msgid "Open GNOME Disks (`gnome-disk-utility`)"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:161
+msgid "Click the cog icon on the partition"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:162
+msgid "Select \"Edit Mount Options\""
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:163
+msgid "Turn off \"User Session Default\""
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:164
+msgid "Check: a) Mount at system startup b) Show in user interface"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:167
+msgid ""
+"In the space where this is no label: `nosuid,nodev,nofail,x-gvfs-show,` "
+"(refer to the correct filesystem below for more options)"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:168
+msgid "`/var/mnt/games` (or whatever directory you made)"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:169
+msgid "`auto`"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:170
+msgid "Select \"Take Ownership\""
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:179
+msgid ""
+"**Note**: If errors occur, then research the error and undo what you did and "
+"try again. Redo the previous two steps in the terminal as GNOME Disks might "
+"not give a good error to search for if the test mount fails."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:183
+msgid "Filesystem Arguments"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:187
+msgid ""
+"![GNOME_Edit_Mount_Options|690x465, 75%](../img/GNOME_Edit_Mount_Options.png)"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:189
+msgid "![GNOME_Mount_Options|549x500, 75%](../img/GNOME_Mount_Options.png)"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:225
+msgid ""
+"use `subvol=name` as an option, KDE and GNOME Disks let you only mount 1 "
+"subvolume through the GUI, you can mount the root with `subvol=/` if a "
+"default subvolume is configured in the filesystem"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:227
+msgid "Installing GNOME Disks on non-GNOME images"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:237
+msgid "Alternative Methods (CLI)"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:239
+msgid "There are also two command-line interface (CLI) methods."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:241
+msgid "Using `systemd.mount`"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:243
+msgid "Editing the `/etc/fstab` file"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:245
+msgid ""
+"CLI methods are intended for advanced users, and it is recommended to "
+"research one of the two methods elsewhere."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:249
+msgid "Emergency Mode After Following This Guide?"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:251
+msgid "This video tutorial shows how to recover from your mounting mistakes."
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:253
+msgid "<https://www.youtube.com/watch?v=-2wca_0CpXY>"
+msgstr ""
+
+#: src/Advanced/Auto-Mounting_Secondary_Drives.md:257
+msgid ""
+"**Documentation Contributors**: [HikariKnight](https://github.com/"
+"HikariKnight) and [asen23](https://github.com/asen23)"
+msgstr ""
+
+#: src/Advanced/Reset_User_Password.md:1
+msgid "nicknamenamenick | 2024-07-22 16:35:12 UTC | #1"
+msgstr ""
+
+#: src/Advanced/Reset_User_Password.md:3
+msgid ""
+"Follow this guide **at your own discretion** because you can break your "
+"system attempting any of this."
+msgstr ""
+
+#: src/Advanced/Reset_User_Password.md:5
+msgid ""
+"![Edit the command for the latest boot entry|690x351](../img/"
+"Edit_the_command_for_the_latest_boot_entry.png)"
+msgstr ""
+
+#: src/Advanced/Reset_User_Password.md:7
+msgid ""
+"Reboot your device and edit the last deployment by presssing <kbd>E</kbd> on "
+"your keyboard."
+msgstr ""
+
+#: src/Advanced/Reset_User_Password.md:9
+msgid "![Boot with init=/bin/bash|689x359](../img/Boot_with_init_bin_bash.jpg)"
+msgstr ""
+
+#: src/Advanced/Reset_User_Password.md:11
+msgid ""
+"Boot with `init=/bin/bash` on the kernel command line (e.g. edit GRUB "
+"prompt.)"
+msgstr ""
+
+#: src/Advanced/Reset_User_Password.md:13
+msgid "![Reboot|689x359](../img/Reboot.jpg)"
+msgstr ""
+
+#: src/Advanced/Reset_User_Password.md:15
+msgid "Continue boot process with <kbd>Ctrl</kbd>+<kbd>X</kbd>"
+msgstr ""
+
+#: src/Advanced/Reset_User_Password.md:17
+msgid "Once you are in the GRUB command line:"
+msgstr ""
+
+#: src/Advanced/Reset_User_Password.md:19
+msgid "Temporarily mount SELinux"
+msgstr ""
+
+#: src/Advanced/Reset_User_Password.md:25
+msgid "Load SELinux policy"
+msgstr ""
+
+#: src/Advanced/Reset_User_Password.md:31
+msgid "Enter your new password (i.e. passwd nick)"
+msgstr ""
+
+#: src/Advanced/Reset_User_Password.md:37
+msgid "Sync"
+msgstr ""
+
+#: src/Advanced/Reset_User_Password.md:49
+msgid "![Commands|690x334](../img/Commands.png)"
+msgstr ""
+
+#: src/Advanced/Reset_User_Password.md:51
+msgid "Your user password should now be reset."
+msgstr ""
+
+#: src/Advanced/Reset_User_Password.md:53
+msgid ""
+"Thanks to [Colin Walters](https://github.com/cgwalters) for the [solution]"
+"(https://github.com/ublue-os/main/issues/469#issuecomment-1885264886)."
+msgstr ""
+
+#: src/Advanced/Reset_User_Password.md:57
+msgid ""
+"**Documentation Contributors**: [Noel Miller](https://github.com/noelmiller)"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:1
+msgid "HikariKnight | 2024-07-25 11:14:34 UTC | #1"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:3
+msgid "READ FIRST"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:5
+msgid ""
+"[Looking-Glass](https://looking-glass.io/) is a very experimental project "
+"and is not ready for production use! This means there are no official "
+"packages for `looking-glass-client` yet. <br> For this reason we do not "
+"package or ship `looking-glass-client`, we only provide a working "
+"configuration and SELinux rules so that it can be used in Bazzite, Bluefin "
+"and Aurora. We do however package the `kvmfr` kernel module and include it "
+"with the system image, as such file any issue with the `kvmfr` module in "
+"bazzite or bluefin/aurora to our discord or github issue tracker and add "
+"@HikariKnight in the issue."
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:10
+msgid ""
+"We will only tell you to file an issue with LookingGlass directly if the "
+"issue is not related to the packaging and configuration of the `kvmfr` "
+"module."
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:12
+msgid "Enabling the kvmfr module"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:14
+msgid ""
+"You can enable the kvmfr module by running the command based on if you are "
+"using bazzite or bluefin/aurora"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:16
+msgid "Bazzite:"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:22
+msgid "Bluefin-dx/Aurora-dx:"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:28
+msgid ""
+"Change the `static_size_mb` of kvmfr by editing `/etc/modprobe.d/kvmfr.conf` "
+"by default it is set to 128mb, this is enough for 4K SDR."
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:31
+msgid "Compiling Looking-Glass client"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:33
+msgid ""
+"Create a `fedora:latest` distrobox that we will use to compile the binary, "
+"use the following command to make the container, when asked about what image "
+"to use, select the default one as i have verified this guide works with that "
+"image for building. This distrobox has to be made manually without the `--"
+"nvidia` flag which our ujust automatically applies in order to maker `cmake-"
+"data` successfully install. **NOTE**: If you are not using the latest fedora "
+"version, please change `latest` to match your version number, this is to "
+"avoid dependency versioning issues.<br>"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:38
+#: src/Advanced/Using_Looking_Glass.md:44
+msgid "\"fedora:latest\""
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:38
+#: src/Advanced/Using_Looking_Glass.md:44
+msgid "\"tmp-lookingglass\""
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:41
+msgid ""
+"If you want to use a separate home folder for this then make a folder to "
+"contain this containers home folder and run this command instead"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:44
+msgid "\"/path/to/new/home\""
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:47
+msgid "Enter the container with `distrobox enter tmp-lookingglass`"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:48
+msgid ""
+"Follow [upstream documentation](https://looking-glass.io/docs/rc/build/"
+"#installing-build-dependencies), you can find the fedora build dependencies "
+"[here](https://looking-glass.io/wiki/Installation_on_other_distributions) "
+"and you will also want to install the dependencies mentioned for **PipeWire "
+"Users**. Since we will be building for **Wayland** and not X11 you will also "
+"need the package `libdecor-devel`"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:50
+msgid ""
+"When you get to the part for running `cmake` you can(and should on bazzite "
+"at least) use the command"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:56
+msgid ""
+"The above command will disable X11 support and Pulseaudio support, but "
+"enable pipewire and wayland support, this will avoid any issues as we do not "
+"ship the X11 dependencies for looking-glass."
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:57
+msgid ""
+"Copy the built `looking-glass-client` binary to `/run/host/home/$USER/.local/"
+"bin/` You can do that using the following commands if you followed the "
+"looking-glass documentation."
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:65
+msgid ""
+"Test and see if `looking-glass-client` binary works for you on the host with "
+"your VM running."
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:66
+msgid ""
+"Exit the container and run the below command to remove the container we used "
+"to build the looking-glass client."
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:74
+msgid "akarypid | 2024-05-09 06:38:38 UTC | #2"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:76
+msgid "Thank you for this guide!"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:78
+msgid ""
+"Is it possible to use Looking-Glass in Bluefin-DX? From what I see, the only "
+"thing extra is some SELinux rules?"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:80
+msgid ""
+"...we only provide a working configuration and SELinux rules so that it can "
+"be used in Bazzite."
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:82
+msgid ""
+"Hopefully there is there an RPM I can layer in Bluefin-DX to get these "
+"SELinux configs? And after that I can simply try following these "
+"instructions?"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:86
+msgid "HikariKnight | 2024-05-09 09:08:55 UTC | #3"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:88
+msgid ""
+"this is already in bluefin-dx as they did not want users to layer virt-"
+"manager on the non-dx image, the ujust will add the SELinux rules and even "
+"give you a human readable copy of them in `.config/selinux_te` :slight_smile:"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:90
+msgid "`ujust configure-vfio` on bluefin-dx"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:92
+msgid "https://github.com/ublue-os/bluefin/pull/1226"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:94
+msgid ""
+"guide for compiling looking-glass is still the same as in bazzite though "
+"(just make sure you compile it using a `fedora:39` container if you are "
+"using `bluefin-dx:gts` or `bluefin-dx:39` as of writing)"
+msgstr ""
+
+#: src/Advanced/Using_Looking_Glass.md:98
+msgid ""
+"**Documentation Author**: [HikariKnight](https://github.com/HikariKnight)"
+msgstr ""
+
+#: src/Advanced/Plymouth_Theming_to_Show_Details.md:1
+msgid "nicknamenamenick | 2024-07-14 15:50:27 UTC | #1"
+msgstr ""
+
+#: src/Advanced/Plymouth_Theming_to_Show_Details.md:3
+msgid ""
+"For those who want to see the init log show if services are functional when "
+"their PC starts up:"
+msgstr ""
+
+#: src/Advanced/Plymouth_Theming_to_Show_Details.md:5
+msgid "![OK|666x500](../img/OK.png)"
+msgstr ""
+
+#: src/Advanced/Plymouth_Theming_to_Show_Details.md:11
+msgid "Alternatively, create `/etc/plymouth/plymouthd.conf` manually"
+msgstr ""
+
+#: src/Advanced/Plymouth_Theming_to_Show_Details.md:19
+msgid "**Documentation Contributors**: Krin"
+msgstr ""
+
+#: src/Advanced/GRUB_Theming.md:1
+msgid "See <https://universal-blue.discourse.group/docs?topic=370>"
+msgstr ""
+
+#: src/Advanced/Modifying_initramfs_args_and_dracut.md:1
+msgid "HikariKnight | 2024-07-26 22:24:33 UTC | #1"
+msgstr ""
+
+#: src/Advanced/Modifying_initramfs_args_and_dracut.md:3
+msgid ""
+"Before doing this, if you just plan to add options to a module, you should "
+"consider using a karg instead!"
+msgstr ""
+
+#: src/Advanced/Modifying_initramfs_args_and_dracut.md:5
+msgid ""
+"Touching the initramfs system and modprobe will slow down your updates so "
+"all your updates will take several minutes longer. In most cases what you "
+"want to do in modprobe can be done with simple kernel arguments,"
+msgstr ""
+
+#: src/Advanced/Modifying_initramfs_args_and_dracut.md:7
+msgid ""
+"In this example lets change the below modprobe options into a karg (kernel "
+"argument)"
+msgstr ""
+
+#: src/Advanced/Modifying_initramfs_args_and_dracut.md:13
+msgid "This would translate to the karg:"
+msgstr ""
+
+#: src/Advanced/Modifying_initramfs_args_and_dracut.md:19
+msgid "To add this to grub we issue the command."
+msgstr ""
+
+#: src/Advanced/Modifying_initramfs_args_and_dracut.md:21
+msgid ""
+"```\n"
+"rpm-ostree kargs --append-if-missing=\"hid_apple.fnmode=2\"\n"
+"```"
+msgstr ""
+
+#: src/Advanced/Modifying_initramfs_args_and_dracut.md:25
+msgid ""
+"This lets you change the module option without editing the initramfs system "
+"and is a lot faster whenever you update the system as the kernel arguments "
+"are not regenerated on each update."
+msgstr ""
+
+#: src/Advanced/Modifying_initramfs_args_and_dracut.md:27
+msgid ""
+"However if you **want** to or must use modprobe files instead at the "
+"sacrifice of slowing down your update speed a lot, then proceed with the "
+"reading."
+msgstr ""
+
+#: src/Advanced/Modifying_initramfs_args_and_dracut.md:31
+msgid "Adding modprobe files to initramfs (this will slow down updates)"
+msgstr ""
+
+#: src/Advanced/Modifying_initramfs_args_and_dracut.md:33
+msgid ""
+"Should you need to add files to initramfs (lets say a modprobe file) then "
+"you will need to add that as a `dracut.conf` file."
+msgstr ""
+
+#: src/Advanced/Modifying_initramfs_args_and_dracut.md:35
+msgid ""
+"For this example we will use `/etc/modprobe.d/hid_apple.conf` as the "
+"modprobe file we want to add, this contains"
+msgstr ""
+
+#: src/Advanced/Modifying_initramfs_args_and_dracut.md:41
+msgid ""
+"To get this to work, we need it included in initramfs so we will make a "
+"dracut config file for it `/etc/dracut.conf.d/hid_apple.conf` This file has "
+"the content"
+msgstr ""
+
+#: src/Advanced/Modifying_initramfs_args_and_dracut.md:44
+msgid ""
+"```\n"
+"install_items+=\" /etc/modprobe.d/hid_apple.conf \"\n"
+"```"
+msgstr ""
+
+#: src/Advanced/Modifying_initramfs_args_and_dracut.md:48
+msgid ""
+"Once both those files are made we can now issue a rebuild with `rpm-ostree "
+"initramfs --enable` and reboot"
+msgstr ""
+
+#: src/Advanced/Modifying_initramfs_args_and_dracut.md:52
+msgid "Enabling kernel modules through dracut (this will slow down updates)"
+msgstr ""
+
+#: src/Advanced/Modifying_initramfs_args_and_dracut.md:54
+msgid ""
+"_NOTE: If you need to add a new driver to the system, then you will need to "
+"make a custom image, this is about enabling drivers/modules that are "
+"disabled by default_"
+msgstr ""
+
+#: src/Advanced/Modifying_initramfs_args_and_dracut.md:56
+msgid ""
+"Enabling kernel modules that exists on the system image, you will need to "
+"make a `dracut.conf` file in `/etc/dracut.conf.d/`. For this example we will "
+"use our `/etc/dracut.conf.d/vfio.conf` file generated by `ujust setup-"
+"virtualization vfio-on` on bazzite"
+msgstr ""
+
+#: src/Advanced/Modifying_initramfs_args_and_dracut.md:60
+msgid ""
+"```\n"
+"add_drivers+=\" vfio vfio_iommu_type1 vfio-pci \"\n"
+"```"
+msgstr ""
+
+#: src/Advanced/Modifying_initramfs_args_and_dracut.md:64
+msgid ""
+"Once we save that file, you can issue an initramfs rebuild with `rpm-ostree "
+"initramfs --enable`"
+msgstr ""
+
+#: src/Advanced/Modifying_initramfs_args_and_dracut.md:67
+msgid ""
+"**Do not rebuild using the dracut command directly when using an atomic "
+"system!**"
+msgstr ""
+
+#~ msgid "Table of Contents"
+#~ msgstr "Tabla de contenidos"
+
+#~ msgid "[Desktop](#desktop)"
+#~ msgstr "[Escritorio](#desktop)"
+
+#~ msgid "[GNOME](#gnome)"
+#~ msgstr "[GNOME](#gnome)"
+
+#~ msgid "[Universal Blue](#universal-blue)"
+#~ msgstr "[Universal Blue](#universal-blue)"
+
+#~ msgid "[Secure Boot](#secure-boot)"
+#~ msgstr "[Secure Boot](#secure-boot)"
