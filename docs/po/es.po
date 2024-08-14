@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Bazzite Documentation\n"
 "POT-Creation-Date: 2024-08-12T19:53:25+02:00\n"
-"PO-Revision-Date: 2024-08-13 14:57+0200\n"
-"Last-Translator: zeglius <zeglius@bazzite>\n"
+"PO-Revision-Date: 2024-08-14 12:11+0200\n"
+"Last-Translator: Zeglius\n"
 "Language-Team: Spanish <es@tp.org.es>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -62,7 +62,7 @@ msgstr ""
 
 #: src/SUMMARY.md:21
 msgid "Handheld Wiki"
-msgstr ""
+msgstr "Wiki de consola de mano"
 
 #: src/SUMMARY.md:22
 msgid "Steam Deck"
@@ -91,7 +91,7 @@ msgstr ""
 #: src/SUMMARY.md:28
 #: src/Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md:1
 msgid "Other Handhelds"
-msgstr ""
+msgstr "Otras consolas de mano"
 
 #: src/SUMMARY.md:30 src/Introduction.md:32
 msgid "Software"
@@ -99,7 +99,7 @@ msgstr "Software"
 
 #: src/SUMMARY.md:32
 msgid "Installing and Managing Software"
-msgstr ""
+msgstr "Instalar y administrar software"
 
 #: src/SUMMARY.md:33
 msgid "Flatpak"
@@ -127,11 +127,11 @@ msgstr "rpm-ostree"
 
 #: src/SUMMARY.md:39
 msgid "Waydroid Setup Guide"
-msgstr ""
+msgstr "Waydroid guía de instalación"
 
 #: src/SUMMARY.md:40 src/Installing_and_Managing_Software/index.md:37
 msgid "Tutorials for Installing Other Software"
-msgstr ""
+msgstr "Tutoriales para instalar otro software"
 
 #: src/SUMMARY.md:41
 msgid "Updates, Rollbacks, & Rebasing"
@@ -139,7 +139,7 @@ msgstr ""
 
 #: src/SUMMARY.md:43 src/Introduction.md:45
 msgid "Advanced"
-msgstr ""
+msgstr "Avanzado"
 
 #: src/SUMMARY.md:45 src/Introduction.md:47
 msgid "**_Follow the documentation below at your own risk!_**"
@@ -167,15 +167,15 @@ msgstr ""
 
 #: src/SUMMARY.md:52
 msgid "Modifying initramfs args and dracut"
-msgstr ""
+msgstr "Modificar argumentos de initramfs y dracut"
 
 #: src/Introduction.md:5
 msgid "[Introduction](Introduction.md)"
-msgstr ""
+msgstr "[Introducción](Introduction.md)"
 
 #: src/Introduction.md:11
 msgid "[📜 Bazzite's README](Bazzite_README.md)"
-msgstr ""
+msgstr "[📜 Bazzite README](Bazzite_README.md)"
 
 #: src/Introduction.md:12
 msgid "[❓️ FAQ](General/FAQ.md)"
@@ -188,6 +188,7 @@ msgstr "[📖 Installation Guide](General/Installation_Guide/index.md)"
 #: src/Introduction.md:14
 msgid "[📝 Desktop Environment Tweaks](General/Desktop_Environment_Tweaks.md)"
 msgstr ""
+"[📝 Ajustes de entorno de escritorio](General/Desktop_Environment_Tweaks.md)"
 
 #: src/Introduction.md:15
 msgid "[🤝 Contributing to Bazzite](General/Contributing_to_Bazzite.md)"
@@ -199,7 +200,7 @@ msgstr ""
 
 #: src/Introduction.md:17
 msgid "[Game Launchers](Gaming/Game_Launchers.md)"
-msgstr ""
+msgstr "[Lanzadores de juegos](Gaming/Game_Launchers.md)"
 
 #: src/Introduction.md:21
 msgid ""
@@ -217,6 +218,7 @@ msgstr ""
 #: src/Introduction.md:23
 msgid "[Handheld Wiki](Handheld_and_HTPC_edition/Handheld_Wiki/index.md)"
 msgstr ""
+"[Wiki de consola de mano](Handheld_and_HTPC_edition/Handheld_Wiki/index.md)"
 
 #: src/Introduction.md:24
 msgid "[Steam Deck](Handheld_and_HTPC_edition/Handheld_Wiki/Steam_Deck.md)"
@@ -253,47 +255,54 @@ msgstr ""
 msgid ""
 "[Other Handhelds](Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md)"
 msgstr ""
+"[Otras consolas de mano](Handheld_and_HTPC_edition/Handheld_Wiki/"
+"Other_Handhelds.md)"
 
 #: src/Introduction.md:34
 msgid ""
 "[Installing and Managing Software](Installing_and_Managing_Software/index.md)"
 msgstr ""
+"[Instalar y administrar software](Installing_and_Managing_Software/index.md)"
 
 #: src/Introduction.md:35
 msgid "[Flatpak](Installing_and_Managing_Software/Flatpak.md)"
-msgstr ""
+msgstr "[Flatpak](Installing_and_Managing_Software/Flatpak.md)"
 
 #: src/Introduction.md:36
 msgid "[ujust](Installing_and_Managing_Software/ujust.md)"
-msgstr ""
+msgstr "[ujust](Installing_and_Managing_Software/ujust.md)"
 
 #: src/Introduction.md:37
 msgid "[Homebrew](Installing_and_Managing_Software/Homebrew.md)"
-msgstr ""
+msgstr "[Homebrew](Installing_and_Managing_Software/Homebrew.md)"
 
 #: src/Introduction.md:38
 msgid "[Distrobox](Installing_and_Managing_Software/Distrobox.md)"
-msgstr ""
+msgstr "[Distrobox](Installing_and_Managing_Software/Distrobox.md)"
 
 #: src/Introduction.md:39
 msgid "[Appimage](Installing_and_Managing_Software/AppImage.md)"
-msgstr ""
+msgstr "[Appimage](Installing_and_Managing_Software/AppImage.md)"
 
 #: src/Introduction.md:40
 msgid "[rpm-ostree](Installing_and_Managing_Software/rpm-ostree.md)"
-msgstr ""
+msgstr "[rpm-ostree](Installing_and_Managing_Software/rpm-ostree.md)"
 
 #: src/Introduction.md:41
 msgid ""
 "[Waydroid Setup Guide](Installing_and_Managing_Software/Waydroid_Setup_Guide."
 "md)"
 msgstr ""
+"[Waydroid guía de instalación](Installing_and_Managing_Software/"
+"Waydroid_Setup_Guide.md)"
 
 #: src/Introduction.md:42
 msgid ""
 "[Tutorials for Installing Other Software](Installing_and_Managing_Software/"
 "index.md)"
 msgstr ""
+"[Tutoriales para instalar otro software](Installing_and_Managing_Software/"
+"index.md)"
 
 #: src/Introduction.md:43
 msgid ""
@@ -305,10 +314,12 @@ msgstr ""
 msgid ""
 "[Auto-Mounting Secondary Drives](Advanced/Auto-Mounting_Secondary_Drives.md)"
 msgstr ""
+"[Auto-montar unidades secundarias de almacenamiento](Advanced/Auto-"
+"Mounting_Secondary_Drives.md)"
 
 #: src/Introduction.md:50
 msgid "[Reset User Password](Advanced/Reset_User_Password.md)"
-msgstr ""
+msgstr "[Resetear contraseña de usuario](Advanced/Reset_User_Password.md)"
 
 #: src/Introduction.md:51
 msgid "[Using Looking Glass](Advanced/Using_Looking_Glass.md)"
@@ -329,6 +340,8 @@ msgid ""
 "[Modifying initramfs args and dracut](Advanced/"
 "Modifying_initramfs_args_and_dracut.md)"
 msgstr ""
+"[Modificar argumentos de initramfs y dracut](Advanced/"
+"Modifying_initramfs_args_and_dracut.md)"
 
 #: src/Bazzite_README.md:1
 msgid "See <https://github.com/ublue-os/bazzite/blob/main/README.md>"
