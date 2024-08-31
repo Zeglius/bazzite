@@ -372,3 +372,4 @@ You can find us on the [Universal Blue Discord](https://discord.gg/f8MUghG5PB) a
 Discuss and create user guides over at the [Universal Blue Discourse Forums](https://universal-blue.discourse.group/c/bazzite/5).
 
 Follow Universal Blue on [Mastodon](https://fosstodon.org/@UniversalBlue).
+\0
