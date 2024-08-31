@@ -41,6 +41,10 @@ hide:
   - [Ayaneo Handhelds](Handheld_and_HTPC_edition/Handheld_Wiki/Ayaneo_Handhelds.md)
   - [Other Handhelds](Handheld_and_HTPC_edition/Handheld_Wiki/Other_Handhelds.md)
 
+
+
+
+
 # Software
 
 - [Installing and Managing Software](Installing_and_Managing_Software/index.md)
@@ -65,3 +69,4 @@ hide:
 - [Reset User Password](Advanced/Reset_User_Password.md)
 - [Creating A Custom Bazzite Image](Advanced/creating_custom_image.md)
 - [Contributing to Bazzite](Advanced/Contributing_to_bazzite.md)
+\0
