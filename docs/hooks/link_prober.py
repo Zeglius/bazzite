@@ -1,7 +1,8 @@
-from html.parser import HTMLParser
+from typing import cast
 
 import requests
 import urllib3.util
+from bs4 import BeautifulSoup, SoupStrainer
 from mkdocs import plugins
 from mkdocs.config.defaults import MkDocsConfig
 from mkdocs.utils import log as _l
@@ -21,26 +22,29 @@ def log_warning(msg, /, *args, ljust=0, padding_char="\t", **kargs):
     _l.warning(f"{NAME}: {padding_char * ljust}{msg}", *args, **kargs)
 
 
-class LinkProberParser(HTMLParser):
+class LinkProberParser:
     # NOTE: Add here http status codes that you might want to ignore
     IGNORE_STATUS_CODES = [405]
 
-    def __init__(self, *, convert_charrefs: bool = True, site_url: str) -> None:
-        super().__init__(convert_charrefs=convert_charrefs)
+    def __init__(self, /, site_url: str) -> None:
         self.site_url = site_url
         self._session = requests.Session()
-        self._urls_to_probe: set[str] = set()
+        self._urls_to_probe: set[str | urllib3.util.Url] = set()
 
-    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
-        if tag != "a":
-            return
-        for href in [v for k, v in attrs if k == "href" and v]:
-            url = urllib3.util.parse_url(href)
-            # Check if is an external url
-            if url.url.startswith(self.site_url) or url.scheme != "https":
-                continue
-            log_debug("Found an url: %s", url.url)
-            self._urls_to_probe.add(url.url)
+    def feed_html(self, html: str) -> None:
+        strainer = SoupStrainer(
+            name=["a"],
+            href=True,
+        )
+        soup = BeautifulSoup(html, "html.parser", parse_only=strainer)
+        all_links = set(
+            tag["href"]
+            for tag in soup
+            if not cast(str, tag["href"]).startswith(self.site_url)
+            and urllib3.util.parse_url(tag["href"]).scheme == "https"
+        )
+
+        map(self._urls_to_probe.add, all_links)
 
     def probe_urls(self):
         num_urls = len(self._urls_to_probe)
@@ -77,7 +81,7 @@ def on_config(config: MkDocsConfig):
 
 @plugins.event_priority(-100)
 def on_page_content(html: str, **kargs):
-    link_prober.feed(html)
+    link_prober.feed_html(html)
 
 
 def on_post_build(*args, **kargs):
