@@ -3,6 +3,7 @@ import os
 import sys
 from pathlib import Path
 
+from bs4 import BeautifulSoup, Tag
 import yaml
 from mkdocs import plugins
 from mkdocs.config.defaults import MkDocsConfig
@@ -76,7 +77,8 @@ def on_config(config: MkDocsConfig):
 
 
 @plugins.event_priority(100)
-def _on_page_markdown_fetch_discourse(markdown: str, **kargs):
+def on_page_markdown(markdown: str, **kargs):
+    """Replace `<!-- cmdrun` placeholders with discourse post contents"""
     markdown_orig = markdown
     result = copy(markdown_orig)
 
@@ -88,24 +90,21 @@ def _on_page_markdown_fetch_discourse(markdown: str, **kargs):
     return result
 
 
-@plugins.event_priority(99)
-def _on_page_markdown_replace_urls(
-    markdown: str,
+@plugins.event_priority(100)
+def on_page_content(
+    html: str,
     page: Page,
     config: MkDocsConfig,
     files: Files,
     **kargs,
 ):
     """Replace discourse urls"""
-    res = markdown
-    for src, dst in [x for x in url_mappings.items()]:
-        if config.site_url:
-            dst = f"{config.site_url.rstrip("/")}/{dst.lstrip("/")}"
-        res = re.sub(rf"\b{re.escape(src)}\b", dst, res, flags=re.UNICODE)
-    return res
+    soup = BeautifulSoup(html)
+    for el in soup.find_all("a"):
+        if not isinstance(el, Tag):
+            continue
+        # Replace the href if is in url_mappings, else dont replace it
+        if el["href"] in url_mappings.keys():
+            el["href"] = url_mappings[el["href"]]
 
-
-on_page_markdown = plugins.CombinedEvent(
-    _on_page_markdown_fetch_discourse,
-    _on_page_markdown_replace_urls,
-)
+    return soup.prettify()
