@@ -19,7 +19,7 @@ def on_page_content(html: str, **kargs):
     for el in soup.findAll("img"):
         if not isinstance(el, Tag):
             continue
-        if not re.match(broken_link_re, el["src"]):
+        if not re.match(broken_link_re, el["src"], flags=re.M | re.I):
             continue
         log_info("Found broken link: ", el["src"])
         el["src"] = re.sub(broken_link_re, r"\1/", el["src"])
