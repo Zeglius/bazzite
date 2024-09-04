@@ -2,6 +2,9 @@ import re
 
 from bs4 import BeautifulSoup, PageElement, Tag
 from mkdocs import plugins
+from mkdocs.structure.pages import Page
+from mkdocs.structure.files import Files
+from mkdocs.config.defaults import MkDocsConfig
 from mkdocs.utils import log as _l
 
 NAME = "fix_img_urls"
@@ -13,9 +16,9 @@ def log_info(msg, /, *args, ljust=0, padding_char="\t", **kargs):
     _l.info(f"{NAME}: {padding_char * ljust}{msg}", *args, **kargs)
 
 
-@plugins.event_priority(-50)
-def on_page_content(html: str, **kargs):
-    soup = BeautifulSoup(html, "html.parser")
+@plugins.event_priority(-51)
+def on_post_page(output: str, *, page: Page, config: MkDocsConfig):
+    soup = BeautifulSoup(output, "html.parser")
     for el in soup.findAll("img"):
         if not isinstance(el, Tag):
             continue
