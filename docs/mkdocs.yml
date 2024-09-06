@@ -76,7 +76,7 @@ plugins:
   - git-committers:
       enabled: !ENV [CI, false]
       repository: !ENV GITHUB_REPOSITORY
-      branch: main
+      branch: mkdocs-test
   - social
 
 markdown_extensions:
